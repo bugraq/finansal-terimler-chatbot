@@ -10,3 +10,4 @@ Flask
 # Google client
 google-api-core
 Markdown
+langchain-google-genai
