@@ -1,0 +1,12 @@
+pandas
+python-dotenv
+langchain
+faiss-cpu
+Flask
+# Eğer langchain_google_genai gibi özel bir sağlayıcı kullanıyorsanız onu da ekleyin
+# Örnek (paket ismi resmi olmayabilir, kendi ortamınıza göre düzeltin):
+# git+https://github.com/someone/langchain-google-genai.git
+
+# Google client
+google-api-core
+Markdown

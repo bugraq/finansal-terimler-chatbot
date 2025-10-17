@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asistan</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='images/logo2.png') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="chat-header">
+      <div class="header-left">
+        <button class="hamburger-menu" onclick="toggleSidebar()" aria-label="Menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="title">
+                    <img src="{{ url_for('static', filename='images/finterm.png') }}" alt="FinTerm" class="papara-logo">
+                    <span>FinTerm</span>
+        </div>
+      </div>
+      <a href="https://github.com/bugraq" target="_blank" class="github-link">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+        </svg>
+        <span>Kaynak Kod</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+          <polyline points="15 3 21 3 21 9"></polyline>
+          <line x1="10" y1="14" x2="21" y2="3"></line>
+        </svg>
+      </a>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <h2>Geçmiş Görüşmeler</h2>
+        <div class="sidebar-actions">
+          <button class="icon-btn" title="Tümünü Sil" onclick="deleteAllConversations()">🗑️</button>
+          <button class="icon-btn" title="Kapat" onclick="toggleSidebar()">×</button>
+        </div>
+      </div>
+      <button onclick="startNewChat()" class="new-chat-button" id="new-chat-btn">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+        </svg>
+        <span>Yeni Görüşme</span>
+      </button>
+      <div class="conversation-list">
+        <!-- JS will render conversations here -->
+      </div>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay" id="overlay" onclick="toggleSidebar()"></div>
+
+    <!-- Main Chat Area -->
+    <div class="chat-messages" id="chat-messages">
+      {% if not conversation_history %}
+        <div class="message bot welcome">
+          <div class="message-content markdown-body">
+            {{ renderMarkdown("Merhaba! Ben finansal terimler sözlüğüyüm. Finans ile ilgili terimlere cevap veriyorum. Size nasıl yardımcı olabilirim?") | safe }}
+          </div>
+        </div>
+      {% endif %}
+            
+      {% for message in conversation_history %}
+        <div class="message {% if message.role == 'user' %}user{% else %}bot{% endif %}">
+          <div class="message-content markdown-body">
+            {{ renderMarkdown(message.content) | safe }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <!-- Input Area -->
+    <div class="chat-input">
+      <input type="text" 
+           id="user-input" 
+           placeholder="Finansal Terimler Sözlüğü Asistanına bir şeyler sor..." 
+           autocomplete="off"
+           autofocus>
+      <button onclick="sendMessage()" class="send-button">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="22" y1="2" x2="11" y2="13"></line>
+          <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <script>
+    // Marked.js configuration
+    marked.setOptions({
+      highlight: function(code, lang) {
+        if (lang && hljs.getLanguage(lang)) {
+          try {
+            return hljs.highlight(code, { language: lang }).value;
+          } catch (__) {}
+        }
+        return code;
+      },
+      breaks: true,
+      gfm: true,
+      headerIds: true,
+      mangle: false,
+      pedantic: false,
+      sanitize: false,
+      smartLists: true,
+      smartypants: true
+    });
+        
+    // Custom renderMD function
+    function renderMD(content) {
+      return marked.parse(content);
+    }
+
+    // Toggle sidebar
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      const overlay = document.getElementById('overlay');
+      sidebar.classList.toggle('active');
+      overlay.classList.toggle('active');
+    }
+
+    // Local conversation storage helpers
+    function loadConversations() {
+      try { return JSON.parse(localStorage.getItem('conversations') || '[]'); } catch (_) { return []; }
+    }
+    function saveConversations(list) {
+      localStorage.setItem('conversations', JSON.stringify(list));
+    }
+    function getCurrentSessionId() {
+      return localStorage.getItem('current_session');
+    }
+    function setCurrentSessionId(id) {
+      localStorage.setItem('current_session', id);
+    }
+
+    function makeId() { return 'c_' + Math.random().toString(36).slice(2,10); }
+    function formatDate(ts){ const d = new Date(ts); return d.toLocaleString(); }
+
+    function renderConversationList() {
+      const list = loadConversations();
+      const active = getCurrentSessionId();
+      const container = document.querySelector('.conversation-list');
+      container.innerHTML = list.map(conv => `
+        <div class="conversation-item ${conv.id === active ? 'active' : ''}" data-id="${conv.id}">
+          <div class="conversation-title">${conv.title || 'Yeni görüşme'}</div>
+          <div class="conversation-meta">
+            <span class="conversation-date">${formatDate(conv.created_at)}</span>
+            <button class="delete-conv-btn" data-del="${conv.id}" title="Sil">🗑️</button>
+          </div>
+        </div>
+      `).join('');
+      container.querySelectorAll('.conversation-item').forEach(el => {
+        el.addEventListener('click', () => switchConversation(el.getAttribute('data-id')));
+      });
+      container.querySelectorAll('.delete-conv-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteConversation(btn.getAttribute('data-del'));
+        });
+      });
+    }
+
+    function startNewChat() {
+      const id = makeId();
+      const list = loadConversations();
+      list.unshift({ id, title: 'Yeni görüşme', created_at: Date.now(), messages: [] });
+      saveConversations(list);
+      setCurrentSessionId(id);
+      clearChatUI();
+      renderConversationList();
+      toggleSidebar();
+    }
+
+    function switchConversation(id) {
+      setCurrentSessionId(id);
+      clearChatUI();
+      renderConversationList();
+      hydrateChatFromStorage();
+      toggleSidebar();
+    }
+
+    function deleteConversation(id){
+      let list = loadConversations();
+      list = list.filter(c => c.id !== id);
+      saveConversations(list);
+      if(getCurrentSessionId() === id){
+        setCurrentSessionId(list[0] ? list[0].id : '');
+        clearChatUI();
+        hydrateChatFromStorage();
+      }
+      renderConversationList();
+    }
+
+    function deleteAllConversations(){
+      localStorage.removeItem('conversations');
+      localStorage.removeItem('current_session');
+      renderConversationList();
+      clearChatUI();
+    }
+
+    function clearChatUI(){
+      const chatMessages = document.getElementById('chat-messages');
+      chatMessages.innerHTML = '';
+      // Show welcome on empty
+      chatMessages.insertAdjacentHTML('beforeend', `
+        <div class="message bot welcome">
+          <div class="message-content markdown-body">
+            ${renderMD("Merhaba! Ben finansal terimler sözlüğüyüm. Finans ile ilgili terimlere cevap veriyorum. Size nasıl yardımcı olabilirim?")}
+          </div>
+        </div>
+      `);
+    }
+
+    function hydrateChatFromStorage(){
+      const list = loadConversations();
+      const id = getCurrentSessionId();
+      const conv = list.find(c => c.id === id);
+      if(!conv) return;
+      const chatMessages = document.getElementById('chat-messages');
+      chatMessages.innerHTML = '';
+      conv.messages.forEach(m => {
+        chatMessages.insertAdjacentHTML('beforeend', `
+          <div class="message ${m.role === 'user' ? 'user' : 'bot'}">
+            <div class="message-content markdown-body">${renderMD(m.content)}</div>
+          </div>
+        `);
+      });
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    function pushMessage(role, content){
+      const list = loadConversations();
+      const id = getCurrentSessionId();
+      let conv = list.find(c => c.id === id);
+      if(!conv){
+        conv = { id: makeId(), title: 'Yeni görüşme', created_at: Date.now(), messages: [] };
+        list.unshift(conv);
+        setCurrentSessionId(conv.id);
+      }
+      conv.messages.push({ role, content });
+      // If first user message, set title from it
+      if(role === 'user' && conv.messages.length === 1){
+        const t = content.replace(/[#*_`>\-]/g,'').trim();
+        conv.title = (t.length > 28 ? t.slice(0,28) + '…' : t) || 'Yeni görüşme';
+      }
+      saveConversations(list);
+    }
+
+    // Send message
+    async function sendMessage() {
+      const input = document.getElementById('user-input');
+      const message = input.value.trim();
+            
+      if (message) {
+        const chatMessages = document.getElementById('chat-messages');
+                
+        // Add user message
+        chatMessages.insertAdjacentHTML('beforeend', `
+          <div class="message user">
+            <div class="message-content markdown-body">
+              ${renderMD(message)}
+            </div>
+          </div>
+        `);
+        pushMessage('user', message);
+                
+        // Clear and disable input
+        input.value = '';
+        input.disabled = true;
+                
+        // Add loading indicator
+        const loadingIndicator = addLoadingIndicator();
+                
+        try {
+          // Build chat_history from current conversation
+          const list = loadConversations();
+          const cur = list.find(c => c.id === getCurrentSessionId());
+          const chat_history = (cur ? cur.messages : []).map(m => ({ role: m.role, content: m.content }));
+
+          const response = await fetch('/send_message', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ message: message, chat_history }),
+          });
+                    
+          const data = await response.json();
+          // Ensure typing indicator shows at least 1s
+          await new Promise(r => setTimeout(r, 1000));
+          
+          // Remove loading indicator
+          loadingIndicator.remove();
+                    
+          // Add bot response
+          chatMessages.insertAdjacentHTML('beforeend', `
+            <div class="message bot">
+              <div class="message-content markdown-body">
+                ${renderMD(data.response)}
+              </div>
+            </div>
+          `);
+          pushMessage('assistant', data.response || '');
+                    
+          // Update sidebar
+          renderConversationList();
+                    
+          // Highlight code blocks
+          document.querySelectorAll('pre code').forEach((block) => {
+            hljs.highlightBlock(block);
+          });
+        } catch (error) {
+          loadingIndicator.remove();
+          console.error('Error:', error);
+        } finally {
+          // Re-enable input
+          input.disabled = false;
+          input.focus();
+        }
+                
+        // Scroll to bottom
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+      }
+    }
+
+    // Loading indicator
+    function addLoadingIndicator() {
+      const chatMessages = document.getElementById('chat-messages');
+      const loadingDiv = document.createElement('div');
+      loadingDiv.className = 'message bot loading';
+      loadingDiv.innerHTML = `
+        <div class="message-content">
+          <div class="typing-indicator">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      `;
+      chatMessages.appendChild(loadingDiv);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+      return loadingDiv;
+    }
+        
+    // Deprecated server-driven sidebar (replaced by local renderConversationList)
+        
+    // Enter key to send message
+    document.getElementById('user-input').addEventListener('keypress', function(e) {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        sendMessage();
+      }
+    });
+        
+    // Initial setup
+    document.addEventListener('DOMContentLoaded', function() {
+      // Ensure at least one conversation exists
+      const list = loadConversations();
+      if(!getCurrentSessionId()){
+        if(list.length === 0){
+          const id = makeId();
+          list.push({ id, title: 'Yeni görüşme', created_at: Date.now(), messages: [] });
+          saveConversations(list);
+          setCurrentSessionId(id);
+        } else {
+          setCurrentSessionId(list[0].id);
+        }
+      }
+      renderConversationList();
+      hydrateChatFromStorage();
+      const chatMessages = document.getElementById('chat-messages');
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+    });
+  </script>
+</body>
+</html>

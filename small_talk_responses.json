@@ -1,0 +1,25 @@
+{
+  "tr": {
+    "greetings": [
+      "Merhaba! Finansal terimler konusunda yardımcı olabilirim — hangi terimi öğrenmek istersiniz?",
+      "Selam! Bana bir finansal terim sorabilirsiniz, örn. 'Likidite nedir?'",
+      "Hey! Finansal terimler hakkında bilgi almak isterseniz bir soru yazın."
+    ],
+    "how_are_you": [
+      "İyiyim, teşekkürler — finansal terimler hakkında bir soru sorabilirsiniz.",
+      "Gayet iyiyim! Hangi finans terimi hakkında bilgi almak istersiniz?",
+      "Teşekkürler, iyiyim. Bir terim sor, hemen yardımcı olayım."
+    ],
+    "thanks": [
+      "Rica ederim — başka bir terim hakkında da sorabilirsiniz.",
+      "Memnun oldum, başka bir sorunuz var mı?"
+
+    ],
+    "goodbye": [
+      "Görüşürüz — tekrar sorularınız olursa beklerim!",
+      "İyi günler! Finansal terimler hakkında tekrar soru sormak isterseniz gelin."
+    ],
+    "fallback": "Merhaba! Finansal terimler hakkında soru sorabilirsiniz — örn. 'Getiri nedir?'",
+    "guidance_suffix": "\n(Not: Finansal terimler konusunda yardımcı olabilirim — lütfen bir terim veya soru yazın.)"
+  }
+}
