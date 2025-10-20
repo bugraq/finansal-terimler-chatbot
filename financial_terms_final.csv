@@ -1,326 +1,324 @@
 ﻿Terim,Tanım
-Aktif,Bir işletmenin sahip olduğu tüm varlıklar; bilanço kalemi.
-Pasif,Bir işletmenin kaynakları; özkaynaklar ve borçlar toplamı.
-Bilanço,"Bir işletmenin belirli tarih itibarıyla varlıkları, borçları ve özkaynaklarını gösteren mali tablo."
-Gelir Tablosu,"Belirli dönem için gelir, gider ve net kar/zararı gösteren mali tablo."
-Nakit Akışı Tablosu,Bir dönemdeki nakit girişleri ve çıkışlarını gösteren mali tablo.
-Cari Oran,Kısa vadeli yükümlülükleri karşılama gücünü gösteren likidite oranı (dönen varlık / kısa vadeli borçlar).
-Likidite,Bir varlığın nakde dönüştürülme kolaylığı ve hızı.
-Brüt Kar,Satış gelirleri ile satışların maliyeti arasındaki fark.
-Net Kar,"Tüm giderler, vergiler ve maliyetler düşüldükten sonra kalan kar."
-Amortisman,Sabit kıymetlerin kullanım ömrü boyunca dağıtılan maliyet gideri.
-Ayırma Esası,Gelir ve giderlerin gerçekleştiği döneme kaydedilmesi muhasebe ilkesi.
-Tahakkuk Esası,Gelir ve giderlerin nakit hareketine bakılmaksızın kaydedilmesi ilkesi.
-Defter Değeri,Bir varlığın veya şirketin muhasebe kayıtlarındaki değeri.
-Piyasa Değeri,Bir varlığın veya şirketin piyasa tarafından belirlenen değeri.
-Hisse Senedi,Şirket sermayesinin paylarını temsil eden menkul kıymet.
-Tahvil,Şirket veya devlet tarafından ihraç edilen borçlanma aracıdır; sabit veya değişken faiz öder.
-Vadeli İşlem,İleriki bir tarihte belirli şartlarda alım-satım yapılmasını sağlayan sözleşme.
-Opsiyon,"Belirli bir tarihe kadar, belirli bir fiyattan alım veya satım hakkı veren türev araç."
-Swap,İki tarafın belirli nakit akışlarını takas ettiği finansal sözleşme.
-Kur Riski,Döviz kurlarındaki dalgalanmalardan kaynaklanan risk.
-Faiz Riski,Faiz oranlarındaki değişikliklerin finansal değerler üzerindeki etkisi.
-Kredi Riski,Borçlunun yükümlülüğünü yerine getirmeme ihtimali.
-Piyasa Riski,Piyasa fiyatlarındaki dalgalanmalardan kaynaklanan zarar riski.
-Likidite Riski,Varlığın istenilen zamanda makul bir fiyata nakde çevrilememesi riski.
-Portföy,Yatırımcının sahip olduğu finansal varlıkların toplamı.
-Çeşitlendirme (Diversification),Portföy riskini azaltmak için farklı varlıklara yatırım yapma stratejisi.
-Getiri,Yatırımın belirli bir dönemde sağladığı kazanç veya gelir oranı.
-Nominal Getiri,Enflasyon ve vergiler dikkate alınmadan hesaplanan getiri.
-Reel Getiri,Enflasyon sonrası gerçek getiri.
-Temettü,Hisse senedi sahiplerine dağıtılan kar payı.
-Endeks,Belirli bir grup menkul kıymetin performansını ölçen gösterge (ör. BIST 100).
-Borsa,Menkul kıymetlerin alınıp satıldığı organize piyasa.
-Likidite Sağlayıcı,Piyasalarda sürekli alım-satım kotasyonu vererek likidite sunan kurum veya kişi.
-Arbitraj,Farklı piyasalardaki fiyat farklarından kar elde etme işlemi.
-Spread,Alış ve satış fiyatı arasındaki fark.
-Marj,Vadeli işlemlerde kullanılan teminat; ayrıca kar marjı anlamında da kullanılır.
-Teminat,Bir borcun veya pozisyonun güvence altına alınması için gösterilen varlık.
-Kaldıraç (Leverage),Küçük özkaynakla daha büyük pozisyon tutma imkanı veren mekanizma.
-Konsolidasyon,Farklı mali tabloların birleştirilmesi; ayrıca fiyat hareketinde dar aralıkta seyretme.
-Volatilite,Fiyatların zaman içindeki oynaklığı; risk göstergesi.
-Beta,Bir menkul kıymetin piyasa hareketlerine duyarlılığını ölçen katsayı.
-Alfa,"Bir yatırımın, risk düzeyi dikkate alındığında beklenenin üzerinde performans göstermesi."
-Faiz Oranı,Borçlanma maliyeti veya yatırımların getiri oranı.
-Basit Faiz,Anapara üzerinden hesaplanan faiz; faiz faize eklenmez.
-Bileşik Faiz,Faizin ana paraya eklenerek tekrar faiz hesaplanması yöntemi.
-Enflasyon,Genel fiyat seviyesindeki sürekli yükseliş.
-Deflasyon,Genel fiyat seviyesindeki sürekli düşüş.
-Stagflasyon,Yüksek enflasyon ile ekonomik durgunluğun aynı anda yaşanması.
-Gayri Safi Yurtiçi Hasıla (GSYH),Bir ülkenin belirli bir dönemde ürettiği tüm nihai mal ve hizmetlerin toplam değeri.
-Cari Açık,"Bir ülkenin dış ticaret, hizmetler ve transferler dengesi sonucu ortaya çıkan açık."
-Sermaye Kontrolleri,Sermaye hareketlerinin kısıtlanması amacıyla uygulanan düzenlemeler.
-Merkez Bankası,Bir ülkenin para politikası otoritesi; para arzını ve faizleri yönetir.
-Para Politikası,"Merkez bankasının faiz, rezerv oranı ve likidite araçları ile yürüttüğü politika."
-Maliye Politikası,Hükümetin vergi ve harcama politikalarıyla ekonomik etkiler yaratma stratejisi.
-Hazine Bonosu,Devlet tarafından kısa vadeli borçlanma amacıyla çıkarılan menkul kıymet.
-Süper-Short,Çok kısa vadeli yatırım araçları (kullanım bağlamına göre değişir).
-Kâr Dağıtım Politikası,Şirketin elde edilen kârı dağıtma veya tekrar yatırıma yönlendirme kararı.
-Halihazır Değer (Present Value),Gelecek nakit akışlarının bugünkü değeri.
-Gelecek Değer (Future Value),Bugünkü tutarın belirli faiz oranıyla gelecekteki değeri.
-İskonto Oranı,Gelecekteki nakit akışlarını bugüne indirgeme oranı; risk ve getiri beklentisini içerir.
-Net Bugünkü Değer (NPV),Yatırımın beklenen nakit akışlarının bugünkü değerleri toplamından yatırımı çıkarmak suretiyle bulunan değer.
-İç Getiri Oranı (IRR),NPV'yi sıfıra getiren iskonto oranı; yatırımın etkinliğini ölçer.
-Karlılık Endeksi,Yatırımın fayda/maliyet oranı; NPV / yatırım maliyeti olarak hesaplanır.
-Serbest Nakit Akışı (Free Cash Flow),Şirketin faaliyetlerinden elde ettiği nakitlerden sermaye harcamaları ve işletme sermayesi ihtiyacı çıkarıldıktan sonra kalan nakit.
-Temettü Verimi,Hisse başına ödenen temettünün hisse fiyatına oranı.
-Fiyat/Kazanç Oranı (F/K veya P/E),Hisse fiyatının hisse başına kazanca oranı; değerleme göstergesi.
-Fiyat/Defter Değeri (P/B),Hisse fiyatının defter değerine oranı.
-Borç/Özsermaye Oranı (D/E),Şirketin finansal kaldıraç seviyesini gösterir; toplam borç / özkaynak.
-Faiz Karşılama Oranı (Interest Coverage),Şirketin faiz giderlerini karıyla karşılama gücü (EBIT / faiz gideri).
-EBITDA,"Vergi, amortisman ve faizler öncesi kazanç; operasyonel karlılığı gösterir."
-EBIT,Faiz ve vergiler öncesi kazanç.
-Brüt Marj,Brüt kar / satışlar oranı; karlılık göstergesi.
-Net Marj,Net kar / satışlar oranı; kârlılığın nihai göstergesi.
-Döviz Kuru,İki para birimi arasındaki değişim oranı.
-Spot Piyasa,Mal veya dövizin anında teslimi ve ödemesi ile yapılan piyasa işlemi.
-Vadeli Piyasa (Forward),Gelecekteki teslim tarihli sözleşmelerin işlemlerinin yapıldığı piyasa.
-Swap Piyasası,"Faiz, döviz veya başka nakit akışlarının takas edildiği piyasa."
-Repo (Repurchase Agreement),Satılan menkul kıymetin belirli bir tarihte geri alınması taahhüdüyle yapılan kısa vadeli borçlanma işlemi.
-Ters Repo,Merkez bankasının veya kurumun menkul kıymet alıp daha sonra geri satma işlemi.
-Likidite Tuzak,Faiz oranları düşük olduğunda parasal genişlemenin ekonomiye etki etmemesi durumu.
-"Para Arzı (M1 M2 M3)",Ekonomideki farklı likidite derecelerine göre tanımlanan para hacimleri.
-Özkaynak,Şirketin varlıklarından borçlar çıkarıldıktan sonra kalan kısım; sahiplerin payı.
-Rehin (İpotek),Bir borcun güvence altına alınması için verilen teminat.
-Temerrüt,"Borçlunun yükümlülüğünü yerine getirememesi, ödeme yapmaması durumu."
-İflas,Borçların ödenememesi sonucu yasal süreçle tasfiye veya yeniden yapılandırma süreci.
-Borç Yeniden Yapılandırma,Borç koşullarının borçlu ve alacaklı arasında yeniden düzenlenmesi.
-Kârlılık,Bir işletmenin maliyetleri düşüldükten sonra elde ettiği kazanç seviyesi.
-Maliyet,Bir ürün veya hizmetin üretimi için yapılan harcamalar.
-Özkaynak Karlılığı (ROE),Net kar / özkaynak; sermaye kârlılığını gösterir.
-Aktif Karlılığı (ROA),Net kar / toplam varlık; varlıkların kârlılığını ölçer.
-Yatırım Getirisi (ROI),Yatırıma göre elde edilen getirinin oranı.
-Sermaye Piyasası Kurulu (SPK),Türkiye'de sermaye piyasalarını düzenleyen ve denetleyen kurum.
-Borsa İstanbul (BIST),Türkiye'de menkul kıymetlerin işlem gördüğü ana borsa.
-Menkul Kıymet,"Hisse senedi, tahvil gibi alınıp satılabilen finansal araçların genel adı."
-Endeks Fon (ETF),Belirli bir endeksi takip eden ve borsada işlem gören yatırım fonu.
-Yatırım Fonu,Hesap sahiplerinden toplanan paraların profesyonel yönetim altında çeşitli menkul kıymetlere yatırıldığı havuz.
-Katılım Bankası,Faiz yerine kar-zarar ortaklığı prensibine dayalı bankacılık hizmeti sunan banka türü.
-İslami Finans,Faizsiz finans prensiplerine dayanan finansal uygulama ve ürünler.
-Finansal Tablolar,"Bilanço, gelir tablosu ve nakit akışı tablosu gibi mali durumu gösteren belgeler."
-Denetim,Şirket mali tablolarının doğruluğunu ve mevzuata uygunluğunu inceleyen süreç.
-Bağımsız Denetim,Yasal çerçevede yetkilendirilmiş denetim kuruluşları tarafından yapılan denetim.
-İç Denetim,Şirket içi kontrol ve süreçlerin etkinliğini değerlendiren sürekli denetim faaliyeti.
-Kurumsal Yönetim,"Şirket yönetiminde şeffaflık, sorumluluk ve hesap verebilirlik ilkeleri."
-Kâr Amacı Gütmeyen Kuruluş,Ticari kar amacı güdmeyen sivil toplum veya vakıf türü kuruluşlar.
-Net İşletme Sermayesi,Dönen varlıklar - kısa vadeli borçlar; işletmenin kısa vadeli finansman gücü.
-Çalışma Sermayesi,Günlük işletme faaliyetleri için gerekli kısa vadeli fonların yönetimi.
-Sermaye Artırımı,Şirketin özkaynaklarını artırmak için hisse ihracı veya benzeri yollarla kaynak sağlama.
-Halka Arz (IPO),Şirketin ilk kez halka açılarak hisse senedi satması işlemi.
-Kota,Borsada işlem görebilme şartlarının sağlanması ve listeleme kriterleri.
-Penny Stock,"Düşük fiyatlı, genellikle yüksek riskli hisseler (kullanım bağlamına göre)."
-Yönetim Kurulu,Şirketin stratejik kararlarını alan en üst düzey yönetim organı.
-İcra Kurulu,"Şirketin günlük operasyonlarını yöneten üst yönetim ekibi (CEO, CFO vb.)."
-Hisse Bölünmesi (Split),Hisse sayısını artırıp fiyatını küçülterek likiditeyi arttırma işlemi.
-Hisse Birleştirme (Reverse Split),Hisse sayısını azaltıp birim fiyatı yükseltme işlemi.
-Teminat Mektubu,Bir bankanın veya kurumun belirli bir yükümlülüğü yerine getirme garantisi belgesi.
-Kambiyo,Dövizle ilgili işlemler ve kambiyo mevzuatı.
-Banka Kredisi,Banka tarafından verilen geri ödemeli finansman kaynağı.
-Türev Ürün,"Değeri başka bir dayanak varlığa bağlı olan finansal araç (opsiyon, future, swap vb.)."
-Dayanak Varlık,"Türev ürünün değerini belirleyen asıl varlık (hisse, döviz, emtia vb.)."
-Emtia,"Ticari mallar: altın, petrol, buğday gibi"
-Aracı Kurum,Menkul kıymet alım-satımında aracılık hizmeti veren kuruluş.
-Bono,"Bir devlet kurumunun ya da özel şirketin, yatırımcılardan aldığı bir miktar borç karşılığında çıkardığı bir çeşit borç senedidir. Başka bir deyişle, alınan bir miktar paranın belli bir süre geçtikten sonra ödeneceğini belirten ticari bir belgedir."
-Alım Emri,Yatırımcının piyasadan belirli bir menkul kıymeti satın almak için verdiği emir.
-Satım Emri,Yatırımcının belirli bir menkul kıymeti satmak için verdiği emir.
-Limit Emri,Belirli fiyat veya daha iyi fiyatla işlem yapılmasını sağlayan emir türü.
-Piyasa Emri,Mevcut piyasa fiyatından hemen gerçekleşecek emir.
-Stop Loss,Zararı sınırlamak için belli fiyat seviyesinde tetiklenen satış emri.
-Stop Limit,Stop ve limit emrinin kombinasyonu; tetiklendikten sonra limit fiyatla işlem.
-Kısa Pozisyon (Short),Bir varlığı ödünç alıp satış yaparak fiyat düşüşünden kar elde etme stratejisi.
-Uzun Pozisyon (Long),Bir varlığı satın alıp fiyat yükselişinden kar elde etme stratejisi.
-Sermaye Piyasası,Uzun vadeli fonların alınıp satıldığı piyasa.
-Likidite Oranı,Şirketin likidite durumunu gösteren çeşitli finansal oranlar.
-Faiz Swap,İki tarafın farklı faiz ödemelerini takas ettiği türev sözleşme.
-Döviz Rezervi,Merkez bankasının elindeki yabancı para varlıkları.
-Cari İşlemler Dengesi,Bir ülkenin mal ve hizmet ticareti ile gelir ve transfer dengesi.
-Sermaye Hesabı,Ülkeye giren ve çıkan sermaye hareketlerinin kaydı.
-Sermaye Piyasası Aracı,"Hisse, tahvil, bono gibi alınıp satılabilen finansal enstrümanlar."
-Repo Faizi,Repo işlemlerinde uygulanan kısa vadeli faiz oranı.
-Marjin Çağrısı,Kaldıraçlı pozisyonda teminat yetersiz kaldığında ek teminat talebi.
-Likidite Havuzu,Likiditenin bir arada toplandığı yapı; kripto ve DeFi bağlamında sık kullanılır.
-Volatilite Endeksi (VIX),Piyasanın beklenen volatilitesini gösteren endeks (opsiyon bazlı).
-Süreklilik (Continuity),Piyasa işlemlerinin sürekliliği ve likidite gerekliliği.
-Kredi Notu (Credit Score),Kişi veya kurumların kredi geri ödeme yeteneğini gösteren derecelendirme.
-Kredi Derecelendirme (Rating),Kurumların borçlanma enstrümanlarına ilişkin değerlendirme notu.
-Kurumsal Tahvil,Şirketler tarafından ihraç edilen borçlanma senetleri.
-Devlet Tahvili,Devlet tarafından uzun vadeli borçlanma amacıyla çıkarılan menkul kıymet.
-Geri Alım Fiyatı (Bid),Alıcıların teklif ettiği fiyat.
-Satış Fiyatı (Ask/Offer),Satıcıların istediği fiyat.
-İtfa Tarihi,Tahvil veya bono gibi borçlanma araçlarının anaparanın geri ödeneceği tarih.
-Kupon Faizi,Tahvil sahiplerine dönemsel olarak ödenen faiz oranı.
-Getiri Eğrisi (Yield Curve),Farklı vadelerin getiri oranlarını gösteren grafik.
-Kıymetli Maden,"Altın, gümüş gibi değerli metaller."
-Hedging,Riskleri azaltmak için pozisyon alma veya türev kullanma stratejisi.
-Spekülasyon,Kısa vadeli fiyat hareketlerinden kar elde etmeye yönelik yüksek riskli işlem.
-Yatırım Stratejisi,Belirli hedefe yönelik portföy oluşturma ve yönetme planı.
-Aktif Yönetim,Portföy yöneticisinin piyasa getirilerini geçmeye çalıştığı yönetim stili.
-Pasif Yönetim,"Endeksleri takip eden, düşük maliyetli yatırım stratejisi."
-Varlık Dağılımı (Asset Allocation),Portföyde farklı varlık sınıflarının yüzdesel dağılımı.
-Alacak Sigortası,Ticari alacakların riskine karşı sigorta koruması.
-Kredi Limitleri,Bankaların müşterilere tanıdığı maksimum kredi tutarı.
-Overdraft,Hesabın eksiye düşmesine izin veren kısa vadeli kredi türü.
-SWIFT,Bankalararası uluslararası para transferi ağının adı.
-IBAN,Bankacılık işlemlerinde kullanılan uluslararası hesap numarası formatı.
-Kuru Tutarla Borçlanma,Döviz cinsinden borçlanma anlamında kullanılır.
-Basit Tahsilat,Alacakların tahsil sürecine ilişkin basit prosedürler.
-Vadeli Mevduat,Belirli vade için bloke edilen ve faiz kazandıran mevduat türü.
-Döviz Pozisyonu,Bir yatırımcının döviz bazlı varlık ve yükümlülüklerinin net pozisyonu.
-Opsiyon Primi,Opsiyon alıcısının satıcıya ödediği bedel.
-Zorunlu Karşılık,Bankaların merkez bankasında tutmak zorunda olduğu rezerv oranı.
-Temerrüt Riski (Default Risk),Borçlunun ödemeyi yapamama riski.
-Sermaye Piyasası Aracı İhraççısı,Menkul kıymeti çıkaran şirket veya kurum.
-Getiri (Yield),Yatırımın dönemsel getirisi; faiz veya temettü gelirleri dahil.
-Kâr Payı,Şirketin ortaklarına dağıttığı kârın payı.
-Vade,Bir finansal enstrümanın son ödeme veya itfa tarihi.
-Likidite Oranı (Quick Ratio),Stokları hariç tutarak kısa vadeli yükümlülükleri karşılama oranı.
-İşletme Sermayesi Döngüsü,Nakitin üretimden tahsilata kadar geçtiği süre.
-Dönemsel Bütçe,Belirli dönemler için hazırlanan gelir-gider planı.
-Sermaye Maliyeti (WACC),Bir şirketin ortalama sermaye maliyeti; borç ve özkaynak ağırlıklı ortalaması.
-Vergi Planlaması,Vergi yükünü yasal sınırlar içinde optimize etme stratejisi.
-Fiyat Duyarlılığı (Duration),Tahvil fiyatının faiz oranı değişikliklerine duyarlılığı.
-Kredili Mevduat Hesabı,Müşteriye kredi sağlanabilen mevduat hesabı türü.
-Kâra Geçiş Noktası (Break-even),Gelirlerin maliyetleri karşıladığı nokta.
-Marjinal Maliyet,Bir birim daha üretildiğinde ortaya çıkan ek maliyet.
-İç Kontrol,Şirket içindeki süreçlerin güvenilir ve etkin olmasını sağlayan sistemler.
-Şeffaflık,Finansal bilgi ve karar süreçlerinin açık ve anlaşılır olması ilkesi.
-Yolsuzluk Riski,Finansal süreçlerde suistimal ve usulsüzlük riski.
-Uyum (Compliance),Yasal düzenlemelere ve standartlara uygunluk süreci.
-Vergi Kaçakçılığı,Yasalara aykırı vergi ödeme kaçınma faaliyetleri.
-Transfer Fiyatlandırması,İlişkili taraflar arasında uygulanan mal ve hizmet fiyatlandırması.
-İşlem Hacmi (Volume),Belirli dönemde alınıp satılan menkul kıymet miktarı.
-Likidite Marjı,Likidite sağlamak için gereken maliyet veya fark.
-Geri Dönüşüm (Recapitalization),Şirket sermaye yapısının yeniden düzenlenmesi.
-Ön Ödeme Cezası,Kredinin vadesinden önce kapatılmasında alınan ücret.
-Kâr Tahmini (Earnings Forecast),Şirketin gelecekteki kârına ilişkin yapılan öngörüler.
-Büyüme Hızı (Growth Rate),"Gelir, kar veya diğer finansal büyüklüklerin dönemsel artış oranı."
-Rekabet Avantajı,Bir şirketi rakiplerinden üstün kılan özellik veya strateji.
-Piyasa Yapıcısı (Market Maker),Alım-satım kotasyonu sağlayarak piyasa oluşumuna katkı veren kurum.
-Stok Devir Hızı,Stokların belirli dönemde kaç kere yenilendiğini gösteren oran.
-Faiz Sensitivitesi,Finansal enstrümanın faiz değişimlerine verdiği tepki.
-Döviz Türevleri,"Dövize dayalı türev ürünleri (forward, swap, options vb.)."
-Maliyet Hesaplama,Üretim veya hizmet maliyetlerinin detaylandırılması süreci.
-Kıymetli Evrak,"Üzerinde hak bulunan, devredilebilen belge (cek, bono vb.)."
-Çek,Ödeme aracı olarak kullanılan yazılı belge; bankaya verilen ödeme emri.
-Poliçe,Sigorta sözleşmesi belgesi; ayrıca kambiyo poliçesi gibi kullanım alanları vardır.
-Sigorta Primi,Sigorta koruması karşılığında ödenen ücret.
-Risk Yönetimi,"Potansiyel risklerin tanımlanması, ölçülmesi ve yönetilmesi süreci."
-Kurumsal Finansman,Şirketlerin kaynak sağlama ve sermaye yapısı yönetimi ile ilgilenen alan.
-Finansal Mühendislik,Yeni finansal ürünlerin tasarımı ve risk yönetimine yönelik teknikler.
-Sermaye Yapısı,Borç ve özkaynak bileşiminin şirket düzeyinde dağılımı.
-Gider,İşletmenin faaliyetleri sırasında katlandığı maliyetler.
-Gelir,Ürün veya hizmet satışlarından elde edilen parasal kazançlar.
-Tahsilat,Alacakların nakde çevrilmesi süreci.
-Amortisman Yöntemleri,"Doğrusal, azalan bakiye gibi sabit kıymet ayrıştırma yöntemleri."
-Stok Değerleme,"FIFO, LIFO, Ortalama Maliyet gibi stokların maliyet yöntemleri."
-Karşılık,Belirli risk veya yükümlülükler için ayrılan finansal rezerv.
-Reeskont,Bankaların belirli alacakları iskonto ederek kısa vadeli likidite sağlaması.
-Finansman Gideri,Borçlanmanın maliyetine ilişkin giderler (faiz vb.).
-Ortaklık Yapısı,Şirket ortaklarının sermaye dağılımı ve ilişkileri.
-Kur Farkı Geliri/Gideri,Döviz pozisyonlarından kaynaklanan değerleme farkları.
-Vergi Yükümlülüğü,Şirket veya bireyin ödemekle yükümlü olduğu vergisel borçlar.
-Serbest Piyasa,Piyasa güçlerinin fiyatları belirlediği düzen.
-Monopson,Tek alıcının bulunduğu piyasa yapısı.
-Monopol,Tek satıcının hakim olduğu piyasa yapısı.
-Oligopol,Az sayıda büyük firmanın hakim olduğu piyasa yapısı.
-Tam Rekabet,Çok sayıda alıcı ve satıcının bulunduğu ideal piyasa yapısı.
-Marjinal Fayda,Bir birim daha tüketildiğinde elde edilen ek fayda.
-Serbest Nakit Akışı (FCF),İşletmenin serbestçe kullanabileceği nakit miktarı.
-Enflasyon Beklentisi,Piyasa oyuncularının gelecekteki enflasyon üzerine beklentileri.
-Para Politikası Aracıları,"Faiz oranları, açık piyasa işlemleri, zorunlu karşılıklar vb."
-Banka Rezervleri,Bankaların merkez bankasında tuttukları nakit karşılıkları.
-Döviz Kuru Rejimi,"Sabit, dalgalı veya yönetilen dalgalanma gibi kur politikaları."
-Sübvansiyon,Devletin belli sektör veya ürünlere sağladığı mali destek.
-Tarife,İthalat veya ihracat işlemlerinde uygulanan vergi ve kısıtlamalar.
-Vergi Teşviği,Yatırımı teşvik etmek amacıyla sağlanan vergi avantajları.
-Cari Oran (Current Ratio),Dönen varlıkların kısa vadeli borçlara oranı.
-Likidite Tuzak (Liquidity Trap),Faiz oranlarının çok düşük olduğu ortamda para politikasının etkisiz kalması.
-Kredi Türevleri,Kredi riskini transfer etmeye yarayan türev enstrümanlar (CDS vb.).
-Kredi Swap (CDS),Kredi riskine karşı sigorta sağlayan türev ürün.
-Teminatlandırma,Borç veya pozisyon için gösterilen güvence süreci.
-Finansal Kaldıraç,Borç kullanarak getiri artırma stratejisi; riskleri de artırır.
-Nominal GSYH,Cari fiyatlarla hesaplanan GSYH.
-Reel GSYH,Sabit fiyatlarla enflasyondan arındırılmış GSYH.
-Gini Katsayısı,Gelir dağılımındaki eşitsizliği ölçen istatistiksel oran.
-Gelir Dağılımı,Toplumdaki gelir paylarının dağılım yapısı.
-İstihdam Oranı,Çalışan nüfusun toplam nüfusa oranı.
-İşsizlik Oranı,İş arayanların işgücü içindeki oranı.
-Kamu Borcu,Devletin yükümlü olduğu toplam borç stoku.
-Bütçe Açığı,Devletin giderlerinin gelirlerini aşması durumu.
-Bütçe Fazlası,Devlet gelirlerinin giderleri aşması durumu.
-Vergi Gelirleri,Devletin tahsil ettiği vergilerden elde ettiği gelir.
-İç Borç,Devlete ait yurt içi borçlanma araçları.
-Dış Borç,Uluslararası piyasada veya yabancı kaynaklardan sağlanan borç.
-Para Birimi,"Bir ülkenin resmi değişim aracı (TL, USD, EUR vb.)."
-Rezerv Para Birimi,Uluslararası rezerv olarak yaygın kullanılan para birimi (ör. USD).
-Devalüasyon,Sabit kur rejiminde yerel para biriminin dış değerinin düşürülmesi.
-Revaluasyon,Para biriminin dış değerinin yükseltilmesi.
-Finansal Türev,Varlıkların gelecekteki fiyatlarına bağlı sözleşmeler.
-Opsiyon Sözleşmesi,Alım veya satım hakkı veren ancak yükümlülük getirmeyen sözleşme.
-Vadeli İşlem Sözleşmesi (Future),"Standartlaştırılmış, borsada işlem gören sözleşme."
-Forward Sözleşme,"Tezgâh üstü, taraflarca özelleştirilmiş ileri tarihli işlem sözleşmesi."
-Marjin Hesabı,Vadeli ve türev işlemler için kullanılan teminat hesabı.
-Kısa Vadeli Borç,Vadesi 1 yıl veya daha kısa süreli borçlar.
-Uzun Vadeli Borç,Vadesi 1 yıldan uzun olan borçlar.
-Döviz Swap,İki tarafın farklı para birimlerindeki nakit akışlarını takas ettiği işlem.
-Finansman Oranı,Yatırımın finansmanında kullanılan borç/öz kaynak oranı.
-Kayıtlı Sermaye,Şirket sözleşmesinde belirtilen maksimum sermaye tutarı.
-Çıkarılmış Sermaye,Şirketin gerçek olarak taahhüt edilmiş sermayesi.
-Nominal Değer,Hisse senedinin veya tahvilin üzerinde yazılı değer.
-Piyasa Yapısı,Piyasada arz ve talep koşullarının oluşturduğu düzen.
-Likidite Riski Açığı,Likidite ihtiyacı ile mevcut likiditenin örtüşmemesi durumu.
-Döviz Kuru Riski,Kur dalgalanmalarından doğan finansal risk.
-Faiz Marjı,Bankacılıkta alınan faizler ile ödenen faizler arasındaki fark.
-Net Faiz Geliri,Bankanın faiz gelirleri ile faiz giderleri farkı.
-Bankacılık Faaliyetleri,"Mevduat toplama, kredi verme, ödeme hizmetleri vb."
-İç Verim (Yield to Maturity),Bir tahvilin vadesine kadar elde edilecek toplam yıllık getiri oranı.
-Geri Alım Anlaşması,Repo işlemlerinin genel adı; kısa vadeli fonlamadır.
-Tahsil Edilemez Alacak,Muhasebide tahsil edilmesi mümkün görülmeyen alacaklar için ayrılan karşılık.
-Fon Yönetimi,Yatırım fonlarının yatırım stratejisi ve günlük yönetimi.
-Katılım Fonu,İslami prensiplere uygun yatırım yapan fon türü.
-Bireysel Emeklilik Sistemi (BES),Bireylerin ek emeklilik birikimi yapmasını sağlayan sistem.
-Sigorta Şirketi,Riskleri sigorta primi karşılığında üstlenen kurum.
-Risk Primleri,Yatırımcının risk almak için talep ettiği ek getiri.
-Teminat Değeri,Bir varlığın teminat olarak kabul edilebilecek değeri.
-Para Piyasası,Kısa vadeli borçlanma ve nakit yönetimi araçlarının işlem gördüğü piyasa.
-Kaldıraç Oranı,Toplam varlıkların özkaynağa oranı veya borç/öz kaynak oranına bakılarak hesaplanır.
-Türev Piyasası,"Vadeli, opsiyon ve swap gibi türev işlemlerin yapıldığı piyasa."
-Aracı Kuruluş Ücretleri,Aracı kurumların sağladığı hizmetler karşılığında alınan ücretler.
-Likidite Yönetimi,Bir kurumun nakit giriş ve çıkışlarını dengede tutma süreci.
-Finansal Modelleme,Finansal veriler kullanılarak geleceğe yönelik projeksiyonlar oluşturma.
-Duyarlılık Analizi (Sensitivity Analysis),Belirli değişkenlerdeki değişimin sonuçlara etkisini ölçme.
-Senaryo Analizi,Farklı varsayımlar altında finansal sonuçların değerlendirilmesi.
-Stres Testi,Ekstrem ama olası kötü senaryolar altında sistemin dayanıklılığını test etme.
-Sürdürülebilirlik Raporlaması,"Şirketlerin çevresel, sosyal ve yönetişim (ESG) performans raporları."
-ESG,"Çevresel, Sosyal ve Yönetişim kriterleri; sürdürülebilirlik ölçütleri."
-Yeşil Bono,Çevresel projelerin finansmanı için çıkarılan tahviller.
-Sosyal Bono,Sosyal etki yaratmayı amaçlayan projeler için çıkarılan tahviller.
-Sermaye Piyasası Araçları,"Hisse, tahvil, varant, sertifika vb. menkul kıymetler."
-Varant,Belirli şartlarda hisse veya endekse dayalı işlem yapma hakkı veren enstrüman.
-Sertifika,Belirli portföy veya endekslere dayalı yatırım ürünü.
-Takas,İşlemlerin merkezi karşı taraf aracılığıyla netleştirilmesi ve teminat yönetimi süreci.
-Kıymetleme (Valuation),Bir varlığın ekonomik değerinin hesaplanması süreci.
-Geri Alım (Buyback),Şirketin kendi hisselerini piyasadan geri alması işlemi.
-Borsa Komisyonu,Aracı kurumlara ödenen işlem ücreti ve komisyonlar.
-Şeffaflık Raporu,Finansal bilgi ve işlemlerin kamuoyuna açıklanması raporu.
-İşlem Ücreti,Piyasada gerçekleşen işlemler için alınan çeşitli ücretler.
-Kâr Yönetimi (Earnings Management),Raporlanan kârı etkilemek üzere muhasebe yöntemlerinin seçilmesi.
-Vergi Avantajı,Belirli yatırım veya işlemlerde sağlanan vergi teşvikleri.
-Vergi İadesi,Ödenen vergilerin iade edilmesi durumu.
-Muhasebe Standartları (TFRS/IFRS),Finansal tabloların hazırlanmasında uyulacak uluslararası/ulusal standartlar.
-Muhasebe İlkeleri (GAAP),Muhasebe uygulamalarını yönlendiren temel ilkeler.
-İşletme Birimi (Business Unit),Şirket içinde ayrı yönetilen faaliyet bölümü.
-Müşteri Temelli Getiri (CLV),Bir müşterinin şirkete sağlayacağı beklenen toplam gelir.
-Kullanıcı Edinme Maliyeti (CAC),Yeni müşterinin edinilmesi için katlanılan ortalama maliyet.
-Sermaye Verimliliği,Sermayenin ne kadar verimli kullanıldığını gösteren performans ölçütü.
-Temerrüt Oranı,Toplam krediler içinde ödeme yapmayan kredi oranı.
-Tahsilat Oranı,Alacakların belirli süre içinde tahsil edilme oranı.
-Kredi Sözleşmesi,Kredi kullanımına ilişkin taraflar arası yazılı anlaşma.
-Likidite Rezervi,Beklenmeyen nakit ihtiyaçları için saklanan kaynak.
-Emtia Piyasası,"Tarım ürünleri, enerji ve madenler gibi emtiaların işlem gördüğü piyasa."
-Futures Contract,Standardize edilmiş vadeli işlem sözleşmesi (ingilizce terim literatürde kullanılabilir).
-Kısa Vadeli Yatırım,"Vadesi kısa olan, genellikle likit enstrümanlara yapılan yatırım."
-Uzun Vadeli Yatırım,"Vadesi uzun, stratejik yatırımlar ve sermaye yatırımları."
-Borçlanma Maliyeti,Borçlanmanın toplam maliyeti; faiz ve diğer giderler dahil.
-Yatırım Portföyü,Bir yatırımcının sahip olduğu tüm yatırım araçlarının toplamı.
-Geriye Dönük Düzeltme (Restatement),Finansal tabloların hatalar nedeniyle yeniden düzenlenmesi.
+Aktif,"Bir işletmenin ekonomik faaliyetlerinde kullandığı tüm varlıkları ifade eder. Nakit, alacaklar, stoklar ve maddi ya da maddi olmayan duran varlıkları kapsar. Aktifler, işletmenin yatırım kapasitesini ve finansal gücünü gösteren temel unsurlardır."
+Pasif,"Bir işletmenin finansman kaynaklarını, yani borç ve özkaynak bileşimini ifade eder. Pasifler, varlıkların nasıl finanse edildiğini gösterir ve kısa vadeli borçlar, uzun vadeli borçlar ile sermayeden oluşur. Bu yapı, işletmenin mali risk düzeyini değerlendirmede kullanılır."
+Bilanço,"Bir işletmenin belirli bir tarihteki mali durumunu özetleyen temel finansal tablodur. Aktifler, pasifler ve özkaynakların dengesini gösterir. Bilanço, işletmenin varlık yapısı ve finansman kaynakları arasındaki ilişkiyi analiz etmek için kullanılır."
+Gelir Tablosu,"Bir işletmenin belirli bir dönem içinde elde ettiği gelirleri ve katlandığı giderleri gösteren mali tablodur. Net kâr veya zararın hesaplanmasına olanak sağlar. Finansal performansın dönemsel olarak değerlendirilmesinde temel araçtır."
+Nakit Akışı Tablosu,"Bir işletmenin belirli bir dönemdeki nakit giriş ve çıkışlarını gösterir. İşletmenin operasyonel, yatırım ve finansman faaliyetlerinden kaynaklanan nakit hareketlerini izlemeye yarar. Bu tablo, işletmenin likidite yönetimi açısından büyük önem taşır."
+Cari Oran,"Bir işletmenin kısa vadeli yükümlülüklerini karşılama gücünü ölçen bir likidite oranıdır. Dönen varlıkların kısa vadeli borçlara oranı şeklinde hesaplanır. Oranın yüksek olması, işletmenin kısa vadede mali açıdan daha güvenli olduğunu gösterir."
+Likidite,"Bir varlığın değer kaybetmeden kısa sürede nakde dönüştürülebilme yeteneğini ifade eder. Finansal yönetimde, işletmenin kısa vadeli yükümlülüklerini yerine getirme kapasitesi açısından önemlidir. Yüksek likidite, finansal esneklik sağlar."
+Brüt Kar,"Bir işletmenin satış gelirlerinden satışların maliyetini çıkardıktan sonra elde ettiği kazançtır. Brüt kâr, üretim ve satış verimliliğini ölçmede kullanılır. Yüksek brüt kâr marjı, işletmenin maliyet yönetiminde etkin olduğunu gösterir."
+Net Kar,"Bir işletmenin tüm gelirlerinden gider, vergi ve faiz ödemeleri çıkarıldıktan sonra elde kalan nihai kârdır. Net kâr, işletmenin genel performansını ve kârlılık düzeyini yansıtır. Aynı zamanda yatırımcılar için finansal başarının temel göstergesidir."
+Amortisman,"Bir işletmenin sahip olduğu sabit kıymetlerin, kullanım ömürleri boyunca aşınma veya yıpranma sonucu değer kaybını ifade eder. Bu değer kaybı, muhasebe kayıtlarında gider olarak dağıtılır. Amortisman, varlıkların gerçek ekonomik değerinin finansal tablolarda yansıtılmasını sağlar."
+Ayırma Esası,"Gelir ve giderlerin gerçekleştiği döneme kaydedilmesini öngören temel muhasebe ilkesidir. Bu esas, dönemler arası mali performansın doğru bir şekilde ölçülmesini sağlar. Böylece işletmenin faaliyet sonuçları gerçeğe daha yakın bir biçimde raporlanır."
+Tahakkuk Esası,"Gelir ve giderlerin nakit hareketine bağlı olmaksızın, gerçekleştiği dönemde muhasebeleştirilmesini esas alan muhasebe ilkesidir. Bu yöntem, finansal tabloların dönemsellik ilkesine uygun ve daha gerçekçi olmasını sağlar. Nakit akışından bağımsız olarak ekonomik olayların kaydedilmesine imkân tanır."
+Defter Değeri,"Bir varlığın veya şirketin muhasebe kayıtlarında yer alan net değeridir. Varlığın maliyetinden birikmiş amortisman veya değer düşüklüğü karşılıkları düşülerek hesaplanır. Defter değeri, piyasa değerinden farklı olabilir ve genellikle finansal analizlerde karşılaştırma amacıyla kullanılır."
+Piyasa Değeri,"Bir varlığın veya işletmenin piyasa koşullarında alıcı ve satıcı arasında oluşan güncel fiyatıdır. Arz-talep dengesi tarafından belirlenir. Piyasa değeri, yatırım kararlarında ve şirket değerlemelerinde temel göstergelerden biridir."
+Hisse Senedi,"Bir anonim şirketin sermayesini temsil eden ve sahiplerine ortaklık hakkı veren menkul kıymettir. Hisse senedi sahipleri, temettü alma ve genel kurulda oy kullanma hakkına sahiptir. Finansal piyasalarda yatırım ve sermaye artırımı aracı olarak önemli bir rol oynar."
+Tahvil,"Devletin veya özel şirketlerin borçlanma amacıyla ihraç ettiği menkul kıymettir. Tahvil sahipleri, belirli dönemlerde sabit veya değişken faiz getirisi elde eder. Tahviller, düşük riskli ve sabit getirili yatırım araçları arasında yer alır."
+Vadeli İşlem,"Belirli bir varlığın gelecekte önceden belirlenmiş bir fiyat ve tarihte alım veya satımını öngören türev sözleşmedir. Bu işlemler, riskten korunma (hedging) veya spekülasyon amacıyla yapılabilir. Vadeli işlemler piyasaları, fiyat dalgalanmalarına karşı koruma sağlar."
+Opsiyon,"Belirli bir tarihe kadar veya tarihte, önceden belirlenmiş bir fiyattan varlık alım veya satım hakkı tanıyan türev sözleşmedir. Opsiyon sahibine hak, karşı tarafa ise yükümlülük verir. Finansal piyasalarda risk yönetimi ve spekülasyon aracı olarak kullanılır."
+Swap,"İki taraf arasında belirli bir süre boyunca farklı faiz, döviz veya nakit akışlarının değişimini öngören finansal sözleşmedir. Swap işlemleri, genellikle faiz oranı veya döviz kuru riskinden korunmak amacıyla yapılır. Finansal piyasalarda türev araçlar arasında önemli bir yer tutar."
+Kur Riski,"Bir işletmenin veya yatırımcının döviz kurlarındaki dalgalanmalardan olumsuz etkilenme olasılığıdır. Kur riski, özellikle döviz cinsinden borç, alacak veya yatırım yapan kurumlar için önemli bir finansal belirsizlik unsurudur. Bu riskin yönetimi, döviz pozisyonu dengesi ve türev araçlar aracılığıyla sağlanabilir."
+Faiz Riski,"Faiz oranlarındaki değişimlerin, finansal varlıkların veya borçların değerinde meydana getirdiği olumsuz etkidir. Faiz riski, özellikle sabit getirili menkul kıymet yatırımlarında önem taşır. Bu riskin kontrolü, faiz swapları veya vadeli faiz sözleşmeleri gibi finansal araçlarla mümkündür."
+Kredi Riski,"Bir borçlunun yükümlülüklerini zamanında veya tamamen yerine getirememe olasılığıdır. Bankacılık ve finans sektöründe en temel risk türlerinden biridir. Kredi riski yönetimi, teminat, kredi derecelendirmesi ve portföy çeşitlendirmesi gibi yöntemlerle yapılır."
+Piyasa Riski,"Finansal piyasalardaki fiyat, faiz, döviz kuru veya emtia değerlerinde meydana gelen dalgalanmalar sonucu oluşabilecek zarar olasılığıdır. Bu risk, sistematik bir risk türü olup tamamen ortadan kaldırılamaz. Yatırım stratejilerinde riskten korunma (hedging) yöntemleriyle azaltılabilir."
+Likidite Riski,"Bir varlığın makul bir fiyatla ve istenilen zamanda nakde dönüştürülememesi durumudur. Bu risk, piyasadaki işlem hacmi düşüklüğünden veya ani nakit ihtiyacından kaynaklanabilir. İşletmelerin finansal istikrarı açısından likidite riskinin yönetimi büyük önem taşır."
+Portföy,"Bir yatırımcının sahip olduğu hisse senedi, tahvil, emtia ve benzeri finansal varlıkların bütününü ifade eder. Portföy yönetimi, risk ve getiri dengesini optimize etmeyi amaçlar. İyi yapılandırılmış bir portföy, yatırımcının finansal hedeflerine ulaşmasını kolaylaştırır."
+Çeşitlendirme (Diversification),"Portföydeki yatırım riskini azaltmak amacıyla farklı varlık türlerine, sektörlere veya piyasalara yatırım yapma stratejisidir. Çeşitlendirme, sistematik olmayan riskleri minimize eder. Bu yöntem, modern portföy teorisinin temel ilkelerinden biridir."
+Getiri,"Bir yatırımın belirli bir süre sonunda sağladığı toplam kazancı veya gelir oranını ifade eder. Getiri, sermaye kazancı ve elde edilen gelirleri kapsar. Yatırım performansının ölçülmesinde en temel göstergelerden biridir."
+Nominal Getiri,"Bir yatırımın belirli bir dönemde sağladığı kazancı, enflasyon ve vergiler dikkate alınmadan gösterir. Nominal getiri, yatırımın yüzeysel performansını ölçmek için kullanılır. Ancak gerçek kazanç analizlerinde reel getiri dikkate alınmalıdır."
+Reel Getiri,"Bir yatırımın enflasyon etkisinden arındırılmış gerçek kazancını ifade eder. Reel getiri, yatırımcının satın alma gücündeki gerçek artışı gösterir. Finansal karar alma süreçlerinde nominal getiriye göre daha sağlıklı bir ölçüttür."
+Temettü,"Bir şirketin elde ettiği dönem kârından, ortaklara payları oranında dağıttığı kâr payıdır. Temettü ödemeleri nakit veya hisse senedi biçiminde yapılabilir. Yatırımcılar açısından, şirketin finansal sağlığı ve uzun vadeli kârlılığı hakkında önemli bir göstergedir."
+Endeks,"Belirli bir menkul kıymet grubunun fiyat veya getiri performansını ölçen göstergedir. Örneğin Borsa İstanbul’da BIST 100 endeksi, en büyük 100 şirketin performansını temsil eder. Endeksler, piyasa eğilimlerini analiz etmede ve yatırım fonlarının başarısını kıyaslamada kullanılır."
+Borsa,"Menkul kıymet, emtia veya türev ürünlerin organize bir şekilde alınıp satıldığı piyasadır. Borsalar, fiyat oluşumunun şeffaf ve rekabetçi bir ortamda gerçekleşmesini sağlar. Sermaye piyasalarının derinliği ve etkinliği açısından kritik bir role sahiptir."
+Likidite Sağlayıcı,"Finansal piyasalarda sürekli alım-satım kotasyonu vererek işlem hacmini artıran kurum veya kişidir. Likidite sağlayıcılar, piyasadaki fiyat istikrarını ve işlem sürekliliğini korur. Bu sayede yatırımcılar, daha dar fiyat aralıklarında işlem yapma imkânı bulur."
+Arbitraj,"Aynı varlığın farklı piyasalardaki fiyat farklarından yararlanarak risksiz kâr elde etme işlemidir. Arbitraj faaliyetleri, piyasalar arasında fiyat dengesinin sağlanmasına katkıda bulunur. Bu mekanizma, finansal sistemin etkinliğini artıran unsurlardan biridir."
+Spread,"Bir finansal varlığın alış (bid) ve satış (ask) fiyatı arasındaki farktır. Spread, piyasa likiditesi ve işlem maliyetleri hakkında önemli bilgiler verir. Dar spread’ler, yüksek likiditeyi ve etkin fiyat oluşumunu gösterir."
+Marj,"Finansal piyasalarda, özellikle vadeli işlemler ve kaldıraçlı işlemlerde teminat olarak yatırılan minimum tutardır. Ayrıca kâr marjı, satış gelirleri ile maliyet arasındaki farkı ifade eder. Marj oranı, risk yönetimi ve getiri potansiyelinin değerlendirilmesinde kullanılır."
+Teminat,"Bir borcun veya finansal pozisyonun güvence altına alınması amacıyla gösterilen varlık ya da nakit tutarıdır. Teminatlar, finansal piyasaların güvenilirliğini ve istikrarını sağlar. Özellikle türev işlemlerde, teminat oranları risk yönetiminde kritik öneme sahiptir."
+Kaldıraç (Leverage),"Yatırımcının düşük miktarda özkaynakla daha büyük bir pozisyon açmasına olanak tanıyan finansal mekanizmadır. Kaldıraç, potansiyel getiriyi artırırken aynı oranda riski de yükseltir. Bu nedenle, profesyonel risk yönetimi gerektiren bir yatırım stratejisidir."
+Konsolidasyon,"Bir işletmenin farklı mali tablolarının tek bir bütün halinde birleştirilmesi sürecidir. Ayrıca finansal piyasalarda, fiyatların dar bir bantta hareket ettiği istikrarlı dönemi de ifade eder."
+Volatilite,"Finansal varlık fiyatlarının zaman içindeki dalgalanma derecesini gösteren bir risk ölçüsüdür. Yüksek volatilite, fiyatların daha belirsiz ve riskli olduğunu ifade eder."
+Beta,"Bir menkul kıymetin getirisinin, piyasa endeksindeki değişimlere olan duyarlılığını ölçen katsayıdır. Beta değeri 1'in üzerindeyse varlık piyasadan daha oynaktır."
+Alfa,"Bir yatırımın, üstlendiği risk düzeyi dikkate alındığında beklenenin üzerinde getiri sağlamasını ifade eder. Pozitif alfa, portföy yöneticisinin piyasanın üzerinde performans gösterdiğini gösterir."
+Faiz Oranı,"Borç verenin, sağladığı fon karşılığında borçludan talep ettiği getiri oranıdır. Aynı zamanda yatırımların beklenen kazanç düzeyini belirlemede de kullanılır."
+Basit Faiz,"Yalnızca anapara üzerinden hesaplanan faiz türüdür. Bu yöntemde faiz, faize eklenmez; hesaplama dönemseldir ve sabit bir getiri sağlar."
+Bileşik Faiz,"Faizin belirli aralıklarla anaparaya eklenerek yeni faiz tutarının bu toplam üzerinden hesaplanması yöntemidir. Uzun vadeli yatırımlarda getiri potansiyelini artırır."
+Enflasyon,"Ekonomide genel fiyat seviyesinin sürekli artması sonucu paranın satın alma gücünün azalması durumudur. Sürekli yüksek enflasyon, ekonomik istikrarı olumsuz etkiler."
+Deflasyon,"Genel fiyat seviyesinin sürekli düşmesiyle karakterize edilen ekonomik durumdur. Genellikle talep yetersizliği ve ekonomik durgunlukla birlikte görülür."
+Stagflasyon,"Ekonomik durgunluk ile yüksek enflasyonun aynı dönemde yaşandığı nadir bir ekonomik durumdur. İşsizlik artarken fiyatlar da yükselmeye devam eder."
+Gayri Safi Yurtiçi Hasıla (GSYH),"Bir ülke sınırları içinde belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin parasal toplam değeridir. Ekonomik büyüme ve refahın temel göstergesi olarak kullanılır."
+Cari Açık,"Bir ülkenin mal, hizmet ve transfer işlemleri dengesinde giderlerin gelirleri aşması durumudur. Sürekli cari açık, dış finansman bağımlılığını artırarak ekonomik kırılganlık yaratabilir."
+Sermaye Kontrolleri,"Bir ülkenin sermaye giriş ve çıkışlarını düzenlemek veya sınırlamak amacıyla uyguladığı idari ve mali önlemlerdir. Bu kontroller genellikle döviz istikrarını korumak için kullanılır."
+Merkez Bankası,"Bir ülkenin para politikasını yöneten, para arzını kontrol eden ve finansal sistemin istikrarını sağlamaktan sorumlu kurumdur. Ayrıca döviz rezervlerini yönetir ve son kredi mercii olarak görev yapar."
+Para Politikası,"Merkez bankasının faiz oranları, açık piyasa işlemleri ve zorunlu karşılık oranları gibi araçlarla para arzını ve likiditeyi yönetme sürecidir. Amaç fiyat istikrarını sağlamak ve ekonomik büyümeyi desteklemektir."
+Maliye Politikası,"Hükümetin kamu harcamaları ve vergi düzenlemeleri aracılığıyla ekonomik dengeyi sağlamayı hedefleyen politikasıdır. Bu politika, istihdamı artırmak ve ekonomik büyümeyi teşvik etmek için kullanılır."
+Hazine Bonosu,"Devletin kısa vadeli finansman ihtiyacını karşılamak için ihraç ettiği borçlanma senedidir. Genellikle bir yıldan kısa vadeli olup düşük riskli yatırım aracı olarak kabul edilir."
+Süper-Short,"Çok kısa vadeli yatırım araçlarını tanımlamak için kullanılan bir terimdir. Bu yatırımlar genellikle günler veya haftalar içinde vade bulur ve düşük riskli nakit yönetimi stratejilerinde kullanılır."
+Kâr Dağıtım Politikası,"Bir işletmenin elde ettiği net kârın ne kadarının hissedarlara temettü olarak dağıtılacağına veya yeniden yatırıma yönlendirileceğine ilişkin stratejisidir. Bu politika, şirketin finansal sürdürülebilirliği açısından önemlidir."
+Halihazır Değer (Present Value),"Gelecekte elde edilmesi beklenen nakit akışlarının, belirli bir iskonto oranı kullanılarak bugünkü değerine indirgenmesi işlemidir. Bu kavram yatırım kararlarında temel bir ölçüttür."
+Gelecek Değer (Future Value),"Bugünkü bir tutarın, belirli bir faiz oranı üzerinden gelecekte ulaşacağı değeri ifade eder. Finansal planlama ve yatırım analizlerinde sıklıkla kullanılır."
+İskonto Oranı,"Gelecekteki nakit akışlarını bugünkü değere indirgemek için kullanılan orandır. Bu oran, yatırımcının risk algısını ve beklenen getiri düzeyini yansıtır."
+Net Bugünkü Değer (NPV),"Bir yatırımın gelecekte sağlayacağı nakit akışlarının bugünkü değerleri toplamından yatırım maliyetinin çıkarılmasıyla elde edilen değerdir. Pozitif NPV, yatırımın ekonomik olarak kârlı olduğunu gösterir."
+İç Getiri Oranı (IRR),"Bir yatırımın net bugünkü değerini sıfıra getiren iskonto oranıdır. Bu oran, yatırımın beklenen getiri oranını temsil eder ve projeler arası karşılaştırmada sıklıkla kullanılır."
+Karlılık Endeksi,"Bir yatırımın getirisini maliyetine oranla ölçen finansal göstergedir. Net bugünkü değerin yatırım tutarına bölünmesiyle hesaplanır ve 1'in üzerindeki değerler yatırımın kârlı olduğunu gösterir."
+Serbest Nakit Akışı (Free Cash Flow),"Bir işletmenin faaliyetlerinden elde ettiği nakit miktarından sermaye harcamaları ve işletme sermayesi gereksinimi düşüldükten sonra kalan nakittir. Şirketin yatırım ve temettü ödeme kapasitesini gösterir."
+Temettü Verimi,"Bir hisse senedinden elde edilen yıllık temettü gelirinin hisse fiyatına oranıdır. Bu oran, yatırımcılara hisse başına sağlanan nakit getiriyi gösterir."
+Fiyat/Kazanç Oranı (F/K veya P/E),"Bir hisse senedinin piyasa fiyatının, hisse başına düşen net kazanca oranıdır. Şirketin piyasa değerlemesini ve yatırımcı beklentilerini değerlendirmede kullanılır."
+Fiyat/Defter Değeri (P/B),"Bir şirketin hisse fiyatının, hisse başına düşen defter değerine oranıdır. Şirketin piyasa değeri ile muhasebe değeri arasındaki farkı gösterir."
+Borç/Özsermaye Oranı (D/E),"Bir işletmenin toplam borcunun özkaynaklarına oranıdır. Bu oran, şirketin finansal kaldıraç düzeyini ve borçla finansman riskini ortaya koyar."
+Faiz Karşılama Oranı (Interest Coverage),"Bir işletmenin faaliyet kârı (EBIT) ile faiz giderlerini karşılama gücünü ölçen orandır. Yüksek oran, borç ödeme kapasitesinin güçlü olduğunu gösterir."
+EBITDA,"Vergi, amortisman ve faiz öncesi kazanç anlamına gelir. Şirketin faaliyetlerinden elde ettiği nakit yaratma kapasitesini ölçmek için kullanılır. Finansal analizlerde işletmenin operasyonel kârlılığını, sermaye yapısından bağımsız biçimde değerlendirmeye imkân tanır."
+EBIT,"Faiz ve vergiler öncesi kâr olarak tanımlanır. Şirketin temel faaliyetlerinden elde ettiği gelirleri ölçer ve borçlanma ya da vergi etkilerinden arındırılmış bir performans göstergesidir."
+Brüt Marj,"Satış gelirlerinden satışların maliyetinin çıkarılmasıyla elde edilen kâr oranını ifade eder. Ürün veya hizmetin doğrudan kârlılığını ölçmek için kullanılır ve fiyatlama stratejilerinin etkinliğini gösterir."
+Net Marj,"Net kârın toplam gelirlere oranıdır. Şirketin tüm gider ve vergiler sonrası kârlılığını gösterir, genel verimlilik ve finansal sürdürülebilirlik açısından temel bir göstergedir."
+Döviz Kuru,"İki para birimi arasındaki değişim oranını belirtir. Uluslararası ticaret ve finansal işlemlerde fiyat belirlemede temel bir göstergedir. Döviz kurlarındaki dalgalanmalar, ülke ekonomilerini doğrudan etkileyebilir."
+Spot Piyasa,"Mal veya dövizin anında teslim edildiği ve ödemenin hemen yapıldığı piyasalardır. Bu piyasalarda fiyatlar anlık arz ve talep koşullarına göre belirlenir. Genellikle yüksek likiditeye sahip piyasalardır."
+Vadeli Piyasa,"Mal veya finansal aracın gelecekte belirli bir tarihte ve fiyatta teslimini konu alan piyasa türüdür. Riskten korunma (hedging) veya spekülasyon amacıyla kullanılır."
+Swap Piyasası,"Tarafların faiz, döviz veya başka finansal akışları belirli koşullar altında takas ettikleri piyasadır. Genellikle faiz veya döviz riskini yönetmek amacıyla kullanılır ve türev piyasalarının önemli bir bileşenidir."
+Repo,"Menkul kıymetlerin satılıp belirli bir tarihte geri alınması taahhüdünü içeren kısa vadeli borçlanma aracıdır. Bankalar ve finansal kurumlar için likidite yönetiminde sıkça kullanılır."
+Ters Repo,"Repo işleminin tersidir; menkul kıymet alımı yapılıp belirli bir tarihte geri satılması şeklinde gerçekleşir. Merkez bankaları genellikle piyasadaki fazla likiditeyi çekmek için ters repo işlemleri uygular."
+Likidite Tuzak,"Faiz oranlarının çok düşük seviyelere inmesine rağmen yatırım ve harcamaların artmaması durumudur. Bu durumda para politikası etkisiz hale gelir çünkü bireyler ellerindeki parayı harcamak yerine elde tutmayı tercih eder. Likidite tuzağı, ekonomik durgunluk dönemlerinde sıklıkla gözlemlenir."
+Para Arzı (M1 M2 M3),"Ekonomide dolaşımda bulunan para miktarını ifade eden göstergelerdir. M1 genellikle nakit ve vadesiz mevduatları, M2 bunlara ek olarak kısa vadeli vadeli mevduatları, M3 ise daha geniş kapsamlı para unsurlarını içerir. Bu göstergeler para politikasının etkinliğini analiz etmede kullanılır."
+Özkaynak,"Bir işletmenin varlıklarından tüm borçlar çıkarıldığında geriye kalan sermaye miktarını ifade eder. Bu tutar, işletme sahiplerinin şirketteki payını gösterir. Özkaynaklar, firmanın finansal sağlığını ve sürdürülebilirliğini değerlendirmede önemli bir göstergedir."
+Rehin (İpotek),"Bir borcun güvence altına alınması amacıyla belirli bir mal veya varlığın teminat gösterilmesidir. Borç ödenmediğinde alacaklı, rehinli varlık üzerinde tasarruf hakkına sahip olur. Bu uygulama, kredi riskini azaltmak için finansal sistemlerde yaygın biçimde kullanılır."
+Temerrüt,"Borçlunun, sözleşmede belirtilen yükümlülüklerini zamanında yerine getirememesi durumudur. Temerrüt, kredi veren açısından risk oluşturur ve yasal yaptırımların uygulanmasına yol açabilir. Finansal sistemlerde kredi güvenliğini sağlamak için temerrüt oranları yakından izlenir."
+İflas,"Bir birey veya işletmenin borçlarını ödeyemeyecek duruma gelmesi sonucu yasal süreçlerin başlatılmasıdır. İflas süreci, borçların yeniden yapılandırılması veya varlıkların tasfiyesi yoluyla alacaklıların korunmasını amaçlar. Bu durum, ekonomik istikrar üzerinde olumsuz etkilere neden olabilir."
+Borç Yeniden Yapılandırma,"Borçlu ile alacaklı arasında mevcut borç koşullarının yeniden düzenlenmesi sürecidir. Bu işlem genellikle ödeme vadelerinin uzatılması veya faiz oranlarının değiştirilmesi şeklinde gerçekleşir. Amaç, borçlunun ödeme gücünü korurken finansal sürdürülebilirliği sağlamaktır."
+Kârlılık,"Bir işletmenin faaliyetleri sonucunda elde ettiği gelirlerin, katlandığı maliyetleri aşma derecesini gösterir. Kârlılık oranları, şirketin verimliliğini ve yatırım getirisi potansiyelini ölçmede kullanılır. Finansal analizlerde temel performans göstergesi olarak değerlendirilir."
+Maliyet,"Bir mal veya hizmetin üretimi için katlanılan tüm harcamaları ifade eder. Bu harcamalar doğrudan (hammadde, işçilik) veya dolaylı (enerji, yönetim giderleri) olabilir. Maliyet analizi, fiyatlandırma stratejileri ve kârlılık hesaplamaları için kritik öneme sahiptir."
+Özkaynak Karlılığı (ROE),"Net kârın özkaynaklara oranını gösteren bir finansal performans ölçütüdür. ROE, şirketin sahip olduğu sermayeyi ne kadar verimli kullandığını ortaya koyar. Yüksek ROE oranı, yatırımcılar açısından etkin sermaye yönetimi anlamına gelir."
+Aktif Karlılığı (ROA),"Net kârın toplam varlıklara oranını gösteren bir performans göstergesidir. ROA, işletmenin varlıklarını ne kadar verimli kullandığını ölçer. Yüksek bir ROA oranı, kaynakların etkin yönetildiğini ve varlıkların kârlı kullanıldığını ifade eder."
+Yatırım Getirisi (ROI),"Bir yatırımın sağladığı kazancın, yapılan toplam yatırıma oranını gösteren ölçüttür. ROI, yatırımın etkinliğini ve kârlılığını değerlendirmede kullanılır. Bu oran, yatırımcıların farklı yatırım alternatiflerini karşılaştırmasında önemli bir araçtır."
+Sermaye Piyasası Kurulu (SPK),"Türkiye'de sermaye piyasalarını düzenleyen, denetleyen ve yatırımcı haklarını korumayı amaçlayan kamu kurumudur. SPK, finansal piyasalarda şeffaflık ve güven ortamını sağlamak için mevzuat oluşturur. Ayrıca borsa işlemleri ve sermaye artırımları gibi faaliyetleri denetler."
+Borsa İstanbul (BIST),"Türkiye'de menkul kıymetlerin alım satımının yapıldığı merkezi borsadır. BIST, hisse senetleri, tahviller, vadeli işlemler ve diğer finansal araçlar için işlem platformu sunar. Aynı zamanda finansal piyasaların likiditesini artıran temel kurumdur."
+Menkul Kıymet,"Belirli bir finansal hak veya alacak hakkı sağlayan, alınıp satılabilen yatırım araçlarını ifade eder. Bunlar arasında hisse senetleri, tahviller ve bono gibi araçlar yer alır. Menkul kıymetler, sermaye piyasalarının temel yapı taşlarındandır."
+Endeks Fon (ETF),"Belirli bir borsa endeksinin performansını takip etmek amacıyla oluşturulan yatırım fonudur. ETF'ler, yatırımcılara düşük maliyetle çeşitlendirilmiş bir portföy sunar. Ayrıca borsada hisse senetleri gibi işlem görebilmeleri nedeniyle likit bir yatırım aracıdır."
+Yatırım Fonu,"Birçok yatırımcının parasının profesyonel yöneticiler tarafından bir araya getirilip çeşitli finansal araçlara yatırıldığı fonlardır. Bu fonlar, riskin dağıtılması ve yatırım çeşitliliği sağlama açısından avantaj sunar. Yatırım fonları, küçük yatırımcıların sermaye piyasalarına erişimini kolaylaştırır."
+Katılım Bankası,"Faizsiz bankacılık ilkelerine göre faaliyet gösteren ve kâr-zarar ortaklığı temeline dayalı finansal hizmet sunan bankalardır. Katılım bankaları, mevduat yerine 'katılım hesabı' sistemiyle çalışır. Bu yapı, İslami finans ilkelerine uygun bankacılığı temsil eder."
+İslami Finans,"Faiz (riba) yasağına dayalı, risk paylaşımını ve etik yatırım anlayışını öne çıkaran finansal sistemdir. İslami finans, ticari faaliyetlerin reel varlıklara dayanmasını ve spekülatif işlemlerden kaçınılmasını esas alır. Bu model, sürdürülebilir ve adil finans anlayışını destekler."
+Finansal Tablolar,"Bir işletmenin mali durumunu, performansını ve nakit akışlarını gösteren raporlardır. Bilanço, gelir tablosu ve nakit akış tablosu en temel finansal tablolardır. Bu belgeler, işletmenin finansal analizinde ve karar alma süreçlerinde kritik rol oynar."
+Denetim,"Bir işletmenin mali tablolarının doğruluğunu, güvenilirliğini ve mevzuata uygunluğunu değerlendiren sistematik inceleme sürecidir. Denetim, finansal raporlamada hata veya hile riskini azaltmayı hedefler. Ayrıca işletme yönetiminin hesap verebilirliğini artırır."
+Bağımsız Denetim,"Yetkilendirilmiş bağımsız kuruluşlar tarafından yürütülen, işletmenin finansal tablolarının objektif biçimde değerlendirilmesini amaçlayan denetim türüdür. Bu denetim, paydaşlara güvenilir bilgi sunarak piyasa güvenini güçlendirir. Yasal çerçevede düzenli raporlama zorunluluğu taşır."
+İç Denetim,"Kuruluşun kendi bünyesinde yürütülen, risk yönetimi, kontrol süreçleri ve yönetişim yapısının etkinliğini değerlendiren bir denetim faaliyetidir. İç denetim, operasyonel verimliliği artırmayı ve hataları önlemeyi hedefler. Sürekli bir izleme mekanizması olarak işlev görür."
+Kurumsal Yönetim,"Şirketin yönetiminde şeffaflık, adillik, hesap verebilirlik ve sorumluluk ilkelerine dayalı yönetim anlayışıdır. Kurumsal yönetim, paydaşlar arası dengeyi koruyarak uzun vadeli sürdürülebilirliği sağlar. Bu yapı, yatırımcı güvenini ve piyasa istikrarını destekler."
+Kâr Amacı Gütmeyen Kuruluş,"Ticari kazanç elde etme amacı taşımayan, sosyal, kültürel veya insani hedeflerle faaliyet gösteren kuruluşlardır. Bu kurumlar genellikle bağışlar, hibeler veya gönüllü katkılarla finanse edilir. Etkinlikleri toplumsal fayda odaklıdır."
+Net İşletme Sermayesi,"Bir işletmenin kısa vadeli yükümlülüklerini karşılayabilme gücünü gösteren finansal göstergedir. Dönen varlıklardan kısa vadeli borçların çıkarılmasıyla hesaplanır. Pozitif değer, işletmenin likidite ve operasyonel esnekliğinin yüksek olduğunu gösterir."
+Çalışma Sermayesi,"Bir işletmenin günlük faaliyetlerini sürdürebilmesi için ihtiyaç duyduğu kısa vadeli fon miktarını ifade eder. Stoklar, alacaklar ve nakit yönetimi bu kapsamda değerlendirilir. Etkin çalışma sermayesi yönetimi, finansal istikrar ve likidite açısından kritiktir."
+Sermaye Artırımı,"Şirketin özkaynaklarını güçlendirmek amacıyla mevcut veya yeni yatırımcılardan kaynak sağlaması işlemidir. Bu süreç genellikle yeni hisse ihracı yoluyla gerçekleştirilir. Sermaye artırımı, büyüme stratejileri ve finansal yapı iyileştirmelerinde önemli bir araçtır."
+Halka Arz (IPO),"Bir şirketin ilk kez sermaye piyasasına açılarak hisse senetlerini halka satışa sunması sürecidir. Halka arz, şirketin finansman kaynaklarını çeşitlendirmesini ve kurumsal itibarını artırmasını sağlar. Ayrıca yatırımcılara doğrudan ortaklık fırsatı sunar."
+Kota,"Bir menkul kıymetin borsada işlem görebilmesi için gerekli olan düzenleyici ve teknik şartların tümünü ifade eder. Kota almak, şirketin belirli finansal ve yönetsel kriterleri karşıladığını gösterir. Bu süreç, piyasa güvenliği ve yatırımcı koruması açısından önemlidir."
+Penny Stock,"Penny Stock, düşük fiyatlı ve genellikle küçük ölçekli şirketler tarafından ihraç edilen hisse senetleridir. Bu hisseler yüksek getiri potansiyeline sahip olmakla birlikte, düşük likidite ve yüksek oynaklık nedeniyle oldukça risklidir. Genellikle spekülatif yatırımlar arasında değerlendirilir."
+Yönetim Kurulu,"Yönetim kurulu, şirketin uzun vadeli stratejik yönünü belirleyen ve önemli kararları alan en üst düzey yönetişim organıdır. Hissedarlar tarafından seçilen üyelerden oluşur ve şirketin genel politikasını denetler. Kurul, şirketin hesap verebilirliğini ve sürdürülebilirliğini sağlar."
+İcra Kurulu,"İcra kurulu, şirketin günlük operasyonlarını yöneten ve stratejik kararların uygulanmasını sağlayan üst yönetim ekibidir. Genellikle CEO, CFO ve operasyon direktörleri gibi pozisyonları içerir. Bu kurul, yönetim kuruluna karşı sorumludur ve faaliyetlerin etkinliğini sağlar."
+Hisse Bölünmesi (Split),"Hisse bölünmesi, şirketin mevcut hisse senetlerini daha küçük birimlere ayırarak hisse sayısını artırma işlemidir. Bu süreç hisse fiyatını düşürerek yatırımcı erişimini artırır ve piyasa likiditesini yükseltir. Şirketin toplam piyasa değeri bu işlemden etkilenmez."
+Hisse Birleştirme (Reverse Split),"Hisse birleştirme, mevcut hisselerin daha az sayıda ve daha yüksek fiyatlı hisselerle değiştirilmesi işlemidir. Bu adım genellikle hisse fiyatını belirli bir seviyenin üzerine çıkarmak veya borsa kotasyon şartlarını sağlamak amacıyla yapılır. Şirketin piyasa değeri yine değişmez."
+Teminat Mektubu,"Teminat mektubu, bir bankanın veya finansal kurumun, belirli bir yükümlülüğün yerine getirilmesini garanti ettiğini belirten resmi belgedir. Bu belge, ticari sözleşmelerde güven unsurunu artırmak amacıyla kullanılır. Taraflar arasında finansal güvence işlevi görür."
+Kambiyo,"Kambiyo, döviz alım satımı ve yabancı para cinsinden yapılan finansal işlemleri kapsayan kavramdır. Kambiyo mevzuatı, döviz işlemlerinin düzenlenmesini ve denetimini içerir. Uluslararası ticarette döviz kuru değişimlerinin yönetimi açısından kritik öneme sahiptir."
+Banka Kredisi,"Banka kredisi, birey veya kurumlara belirli bir süre ve faiz oranı karşılığında sağlanan finansman kaynağıdır. Krediler yatırım, işletme sermayesi veya tüketim amaçlı olabilir. Banka, kredi değerlendirmesinde borçlunun gelir, teminat ve risk profilini dikkate alır."
+Türev Ürün,"Türev ürünler, değeri hisse senedi, döviz, faiz oranı veya emtia gibi bir dayanak varlığa bağlı olan finansal araçlardır. Bu ürünler riskten korunma (hedging), spekülasyon veya arbitraj amaçlı kullanılır. En yaygın türleri opsiyon, vadeli işlem (future) ve swap sözleşmeleridir."
+Dayanak Varlık,"Dayanak varlık, bir türev ürünün fiyatının belirlenmesinde temel alınan finansal varlıktır. Hisse senetleri, döviz kurları, faiz oranları ve emtialar sıkça kullanılan dayanak varlıklardandır. Türev ürünün değeri, bu varlığın piyasa hareketlerine doğrudan bağlıdır."
+Emtia,"Emtia, altın, petrol, buğday gibi ticari değeri olan fiziksel malları ifade eder. Finansal piyasalarda emtialar genellikle vadeli işlem sözleşmeleri aracılığıyla işlem görür. Fiyatları arz-talep dengesi, jeopolitik riskler ve ekonomik göstergelere bağlı olarak dalgalanır."
+Aracı Kurum,"Aracı kurum, yatırımcılar adına menkul kıymet alım satımı gerçekleştiren ve piyasa likiditesine katkıda bulunan finansal kuruluştur. Bu kurumlar, yatırım danışmanlığı ve portföy yönetimi gibi ek hizmetler de sunabilir. Sermaye piyasalarının etkin çalışmasında kritik bir role sahiptir."
+Bono,"Bono, devlet veya özel şirketlerin yatırımcılardan borçlanmak amacıyla ihraç ettiği kısa veya orta vadeli menkul kıymettir. Vade sonunda anapara ve faiz ödemesi yapılır. Güvenli yatırım araçları arasında yer alır ve faiz oranlarındaki değişimlere duyarlıdır."
+Alım Emri,"Alım emri, yatırımcının belirli bir menkul kıymeti satın almak için borsaya veya aracı kuruma ilettiği talimattır. Bu emirler, piyasa veya limit türünde olabilir. Emir türü, işlemin fiyat ve hız önceliğini belirler."
+Satım Emri,"Satım emri, yatırımcının elindeki menkul kıymeti belirli şartlar altında satmak için verdiği talimattır. Piyasa koşulları, fiyat seviyesi ve emir tipi bu işlemin zamanlamasını etkiler. Satım emirleri yatırım stratejilerinde kâr realizasyonu veya zarar durdurma amaçlı kullanılabilir."
+Limit Emri,"Limit emri, yatırımcının belirlediği maksimum alış veya minimum satış fiyatı üzerinden işlem yapılmasını sağlar. Bu emir tipi, fiyat kontrolü sunarken işlem hızını sınırlayabilir. Özellikle volatil piyasalarda fiyat riskini azaltmak için tercih edilir."
+Piyasa Emri,"Piyasa emri, mevcut piyasa fiyatından anında gerçekleştirilen alış veya satış talimatıdır. Emir derhal işleme alınır ve hızlı pozisyon değişimi sağlar. Ancak ani fiyat dalgalanmalarında beklenenden farklı işlem fiyatı gerçekleşebilir."
+Stop Loss,"Stop loss emri, yatırımcının zararını sınırlamak amacıyla belirli bir fiyat seviyesinde otomatik satış işlemi başlatan emir türüdür. Bu mekanizma, risk yönetiminde sıkça kullanılır. Özellikle volatil piyasalarda sermaye korunumu açısından önem taşır."
+Stop Limit,"Stop limit emri, stop emrinin tetikleyici özelliğiyle limit emrinin fiyat kontrolünü birleştirir. Stop seviyesi aşıldığında limit fiyat üzerinden işlem yapılır. Bu emir türü, zarar sınırlandırması ile fiyat kontrolünü aynı anda sağlar."
+Kısa Pozisyon (Short),"Kısa pozisyon, yatırımcının elinde bulunmayan bir varlığı ödünç alarak satması ve fiyat düştüğünde geri alarak farktan kazanç elde etmesi stratejisidir. Bu yöntem, piyasa düşüşlerinden yararlanmak için kullanılır. Ancak fiyat yükselirse sınırsız zarar riski taşır."
+Uzun Pozisyon (Long),Bir varlığın satın alınarak fiyat artışından kâr elde edilmesi hedeflenen yatırım stratejisidir. Bu strateji genellikle yükselen piyasa beklentisiyle uygulanır. Uzun pozisyon yatırımcıları, varlığın değer kazandığı dönemlerde sermaye kazancı sağlar.
+Sermaye Piyasası,Uzun vadeli fonların arz ve talebinin buluştuğu finansal piyasadır. Bu piyasada hisse senetleri, tahviller ve diğer menkul kıymetler işlem görür. Sermaye piyasası, ekonomik büyümenin finansmanında önemli bir rol oynar.
+Likidite Oranı,Şirketlerin kısa vadeli borçlarını karşılama gücünü ölçen finansal göstergelerdir. Cari oran ve asit-test oranı bu göstergelere örnektir. Yüksek likidite oranı, işletmenin finansal istikrarının güçlü olduğunu gösterir.
+Faiz Swap,İki tarafın farklı faiz türlerine bağlı nakit akışlarını karşılıklı olarak değiştirdikleri türev sözleşmedir. Genellikle sabit faiz ödemesiyle değişken faiz ödemesi takas edilir. Faiz swapları, faiz riskini yönetmek veya finansman maliyetini azaltmak amacıyla kullanılır.
+Döviz Rezervi,Bir ülkenin merkez bankası tarafından tutulan yabancı para cinsinden varlıklardır. Bu rezervler, döviz kuru istikrarını sağlamak ve dış borç yükümlülüklerini karşılamak için kullanılır. Aynı zamanda ülkenin finansal güvenliğini ve kredi itibarını da etkiler.
+Cari İşlemler Dengesi,Bir ülkenin mal ve hizmet ticareti, gelir transferleri ve cari transferlerden oluşan dış ekonomik dengesini ifade eder. Pozitif denge fazla, negatif denge ise açık anlamına gelir. Bu denge, ülkenin dış ticaret performansını ve ekonomik sürdürülebilirliğini yansıtır.
+Sermaye Hesabı,Ülkeye giren ve çıkan sermaye hareketlerini gösteren ödemeler dengesi alt hesabıdır. Doğrudan yatırımlar, portföy yatırımları ve diğer sermaye akımları bu hesapta yer alır. Sermaye hesabı, bir ekonominin dış finansman yapısını analiz etmek için önemli bir göstergedir.
+Sermaye Piyasası Aracı,Hisse senedi, tahvil, bono gibi finansal enstrümanları kapsar. Bu araçlar, yatırımcıların tasarruflarını ekonomiye aktararak fon arzı oluşturur. Sermaye piyasası araçları, finansal sistemin derinliğini ve likiditesini artırır.
+Repo Faizi,Kısa vadeli menkul kıymetlerin geri alım vaadiyle satıldığı repo işlemlerinde uygulanan faiz oranıdır. Merkez bankaları bu oranı para politikası aracı olarak kullanır. Repo faizi, piyasalardaki kısa vadeli likidite koşullarını doğrudan etkiler.
+Marjin Çağrısı,Kaldıraçlı pozisyonlarda teminat miktarının belirlenen seviyenin altına düşmesi durumunda aracı kurum tarafından yapılan ek teminat talebidir. Yatırımcı, pozisyonunu koruyabilmek için ek fon yatırmak zorundadır. Aksi halde pozisyon otomatik olarak kapatılabilir.
+Likidite Havuzu,Likidite havuzu, yatırımcıların varlıklarını bir araya getirerek ticaret veya finansal işlemlerde likidite sağlayan yapılardır. Özellikle merkeziyetsiz finans (DeFi) platformlarında otomatik piyasa yapıcı sistemler aracılığıyla işlem kolaylığı sağlar. Bu yapı, piyasa derinliğini artırırken kullanıcılar için işlem maliyetlerini düşürür.
+Volatilite Endeksi (VIX),VIX endeksi, piyasalarda beklenen oynaklığı ölçen ve genellikle “korku endeksi” olarak adlandırılan göstergedir. Chicago Board Options Exchange (CBOE) tarafından hesaplanır ve S&P 500 opsiyonlarının volatilitesine dayanır. Endeksin yükselmesi, piyasalarda belirsizlik ve risk algısının arttığını gösterir.
+Süreklilik (Continuity),Finansal piyasalarda süreklilik, işlemlerin düzenli, kesintisiz ve likiditeyi koruyacak biçimde sürdürülmesini ifade eder. Bu kavram, özellikle borsalarda işlem hacmi ve fiyat istikrarı açısından önem taşır. Piyasa sürekliliği, etkin fiyat oluşumunu ve yatırımcı güvenini destekler.
+Kredi Notu (Credit Score),Kredi notu, bireylerin veya kurumların finansal yükümlülüklerini yerine getirme olasılığını ölçen sayısal bir göstergedir. Bu not, ödeme geçmişi, borç düzeyi ve finansal davranışlara göre belirlenir. Bankalar ve finans kuruluşları, kredi riskini değerlendirirken bu notu temel alır.
+Kredi Derecelendirme (Rating),Kredi derecelendirmesi, kurumların veya devletlerin borçlanma araçlarına ilişkin ödeme kabiliyetini ve risk düzeyini belirleyen sistemdir. Uluslararası derecelendirme kuruluşları (Moody’s, S&P, Fitch vb.) tarafından yapılır. Bu dereceler, yatırımcıların risk analizinde yol gösterici bir unsurdur.
+Kurumsal Tahvil,Şirketler tarafından uzun vadeli finansman sağlamak amacıyla ihraç edilen borçlanma senetleridir. Yatırımcılar, tahvili satın alarak şirkete borç verir ve belirli vadelerde faiz getirisi elde eder. Kurumsal tahviller, işletmelerin sermaye yapısını güçlendirmede önemli bir araçtır.
+Devlet Tahvili,Devletin bütçe açığını finanse etmek veya kamu yatırımlarını desteklemek amacıyla ihraç ettiği uzun vadeli borçlanma senetleridir. Bu tahviller, genellikle risksiz yatırım araçları arasında kabul edilir. Faiz oranları ve vade süreleri, ülkenin makroekonomik politikalarıyla yakından ilişkilidir.
+Geri Alım Fiyatı (Bid),Geri alım fiyatı, bir menkul kıymeti veya varlığı satın almak isteyen alıcının teklif ettiği en yüksek fiyattır. Finansal piyasalarda alış emirlerinin temelini oluşturur. Bid fiyatı ile satış fiyatı arasındaki fark (spread), piyasa likiditesi hakkında bilgi verir.
+Satış Fiyatı (Ask/Offer),Satış fiyatı, bir menkul kıymeti veya varlığı satmak isteyen tarafın talep ettiği en düşük fiyattır. Bu fiyat, alıcıların ödemeyi kabul ettikleri fiyatla karşılaştırılarak işlem gerçekleşmesini sağlar. Ask-bid farkı, piyasa derinliği ve işlem maliyetleri hakkında önemli bir göstergedir.
+İtfa Tarihi,İtfa tarihi, tahvil veya bono gibi borçlanma araçlarında anaparanın ve faizin geri ödeneceği son tarihi ifade eder. Bu tarih, yatırımcı açısından sermayenin geri dönüş süresini belirler. İtfa tarihinin belirlenmesi, yatırım stratejilerinde vade riskinin yönetimi açısından kritiktir.
+Kupon Faizi,Kupon faizi, tahvil veya bono sahiplerine belirli dönemlerde yapılan faiz ödemelerini ifade eder. Bu oran, tahvilin nominal değerine göre hesaplanır ve yatırımcının düzenli gelir elde etmesini sağlar. Kupon faizi, tahvilin cazibesini ve piyasa değerini etkileyen temel unsurlardan biridir.
+Getiri Eğrisi (Yield Curve),Getiri eğrisi, farklı vadelerdeki tahvil getirilerini grafiksel olarak gösteren önemli bir finansal göstergedir. Eğrinin şekli (normal, ters, yatay) ekonomik beklentiler ve faiz politikaları hakkında bilgi verir. Bu eğri, yatırımcılar için faiz oranı riski ve ekonomik döngü sinyallerini anlamada kritik bir araçtır.
+Kıymetli Maden,Kıymetli madenler, altın, gümüş, platin gibi nadir bulunan ve yüksek ekonomik değere sahip metallerdir. Bu madenler, hem yatırım aracı hem de sanayi girdisi olarak kullanılır. Ekonomik belirsizlik dönemlerinde genellikle güvenli liman olarak tercih edilirler.
+Hedging,Hedging, finansal piyasalarda riskten korunma amacıyla yapılan işlemleri ifade eder. Yatırımcılar, fiyat dalgalanmalarından kaynaklanabilecek zararları azaltmak için türev ürünler veya karşıt pozisyonlar kullanır. Bu strateji, özellikle kur, faiz veya emtia risklerinin yönetiminde önemli rol oynar.
+Spekülasyon,Spekülasyon, piyasalardaki kısa vadeli fiyat hareketlerinden kar elde etme amacıyla yapılan yüksek riskli işlemlerdir. Spekülatörler, genellikle piyasa yönünü tahmin ederek pozisyon alır. Bu işlemler likiditeyi artırsa da aşırı spekülasyon piyasa istikrarsızlığına yol açabilir.
+Yatırım Stratejisi,Yatırım stratejisi, yatırımcının risk toleransı, hedefleri ve zaman ufkuna göre belirlediği planlı bir yatırım yaklaşımıdır. Bu stratejiler, portföy bileşimini, varlık dağılımını ve yeniden dengeleme kriterlerini kapsar. Etkin bir strateji, uzun vadeli getiri hedeflerinin tutarlı biçimde sağlanmasını amaçlar.
+Aktif Yönetim,Aktif yönetim, portföy yöneticisinin piyasa ortalamasını aşmak amacıyla sürekli analiz ve işlem yaptığı bir yatırım yöntemidir. Bu yaklaşım, piyasa hareketlerini öngörmeye ve fırsatlardan yararlanmaya dayanır. Ancak yüksek işlem maliyetleri ve yönetim ücretleri nedeniyle risk-getiri dengesi dikkatle değerlendirilmelidir.
+Pasif Yönetim,Pasif yönetim, piyasa endekslerini takip eden ve düşük maliyetli fonlarla uzun vadeli yatırım yapmayı hedefleyen bir stratejidir. Bu yaklaşım, piyasa getirilerini tekrarlamayı amaçlar ve genellikle düşük risk taşır. Pasif yönetim, verimlilik ve maliyet avantajı nedeniyle kurumsal yatırımcılar arasında yaygındır.
+Varlık Dağılımı (Asset Allocation),Varlık dağılımı, yatırım portföyündeki farklı varlık sınıflarının (hisse, tahvil, nakit vb.) oranlarının belirlenmesini ifade eder. Bu karar, yatırımcının risk-getiri dengesini optimize etmek açısından kritik öneme sahiptir. Uygun varlık dağılımı, piyasa dalgalanmalarına karşı portföyün dayanıklılığını artırır.
+Alacak Sigortası,Alacak sigortası, şirketlerin müşterilerinden tahsil edemedikleri ticari alacaklarını teminat altına alan bir sigorta türüdür. Bu sistem, nakit akışının sürekliliğini korur ve finansal riskleri azaltır. Özellikle ihracat yapan firmalar için ödeme güvencesi sağlaması açısından önemlidir.
+Kredi Limitleri,Kredi limitleri, bankaların müşterilerine kullandırabilecekleri azami kredi tutarını ifade eder. Bu limit, müşterinin kredi geçmişi, gelir durumu ve risk profiline göre belirlenir. Uygun limit belirlenmesi, finansal istikrarın korunması açısından önem taşır.
+Overdraft,Overdraft, banka hesaplarının belirli bir tutara kadar eksi bakiyeye düşmesine izin veren kısa vadeli bir kredi türüdür. Genellikle işletmelerin geçici nakit akışı ihtiyaçlarını karşılamak için kullanılır. Faiz oranları günlük olarak uygulanır ve geri ödeme esnekliği sağlar.
+SWIFT,SWIFT, uluslararası bankalar arasında güvenli ve standartlaştırılmış para transferlerini sağlayan bir iletişim ağıdır. Dünya genelinde finansal kurumlar arasında hızlı, doğru ve güvenilir bilgi akışı sağlar. Uluslararası ticaretin etkin biçimde yürütülmesinde temel altyapılardan biridir.
+IBAN,IBAN (International Bank Account Number), uluslararası para transferlerinde hesapların standart biçimde tanımlanmasını sağlayan numara formatıdır. Bu sistem, hatalı işlem riskini azaltır ve transferlerin daha hızlı gerçekleşmesine olanak tanır. Avrupa Birliği ülkeleri başta olmak üzere dünya genelinde yaygın olarak kullanılır.
+Kuru Tutarla Borçlanma,Kuru tutarla borçlanma, borçlanmanın yerel para birimi yerine döviz cinsinden yapılması anlamına gelir. Bu tür borçlanmalar, döviz kurlarındaki değişimlere bağlı olarak ek riskler doğurabilir. Özellikle gelişmekte olan ülkelerde kur riski yönetimi bu tür borçlanmalarda kritik öneme sahiptir.
+Basit Tahsilat,Basit tahsilat, alacakların tahsil edilmesine yönelik daha sade ve düşük maliyetli yöntemleri ifade eder. Genellikle küçük ölçekli işlemlerde tercih edilir ve karmaşık tahsilat süreçlerine kıyasla daha hızlıdır. Bu yöntem, işletmelerin nakit akışını kolaylaştırarak operasyonel verimliliği artırır.
+Vadeli Mevduat,Vadeli mevduat, belirli bir süre boyunca çekilmeyen ve karşılığında faiz getirisi sağlayan mevduat türüdür. Mevduat süresi boyunca faiz oranı sabit kalır ve vade sonunda anapara ile faiz birlikte ödenir. Bu araç, bireyler ve kurumlar için düşük riskli bir yatırım seçeneği olarak kullanılır.
+Döviz Pozisyonu,Döviz pozisyonu, bir yatırımcının veya kurumun döviz cinsinden varlıkları ile yükümlülükleri arasındaki farkı gösterir. Pozisyonun pozitif veya negatif olması, döviz kuru değişimlerinden doğabilecek kazanç veya zarar potansiyelini belirler. Döviz pozisyonu yönetimi, finansal risklerin kontrolünde önemli bir unsurdur.
+Opsiyon Primi,Opsiyon primi, opsiyon sözleşmesini satın alan yatırımcının, sözleşmeyi düzenleyen tarafa ödediği bedeldir. Bu prim, yatırımcıya belirli bir tarihe kadar alım veya satım hakkı tanır. Primin seviyesi, dayanak varlığın volatilitesi ve vade süresi gibi faktörlere bağlı olarak değişir.
+Zorunlu Karşılık,Zorunlu karşılık, bankaların topladıkları mevduatın belirli bir oranını merkez bankasında rezerv olarak tutma yükümlülüğüdür. Bu mekanizma, para arzını kontrol etmek ve finansal sistemin istikrarını sağlamak amacıyla kullanılır. Zorunlu karşılık oranlarının değiştirilmesi, para politikası araçlarından biridir.
+Temerrüt Riski (Default Risk),Bir borçlunun yükümlülüklerini vadesinde yerine getirememe olasılığıdır. Bu risk, özellikle tahvil ve kredi piyasalarında yatırımcı açısından önemli bir unsurdur.
+Sermaye Piyasası Aracı İhraççısı,Menkul kıymetleri ihraç ederek sermaye temin eden kurum veya şirkettir. Bu ihraççılar genellikle finansal piyasalarda yatırımcılarla fon akışını sağlar.
+Getiri (Yield),Bir yatırımın belirli bir dönem sonunda sağladığı toplam kazançtır. Getiri, faiz, temettü ve sermaye kazancı gibi unsurları kapsar.
+Kâr Payı,Şirketin dönem sonunda elde ettiği kârın ortaklara dağıtılan kısmıdır. Genellikle hisse senedi sahiplerine temettü olarak ödenir.
+Vade,Bir finansal enstrümanın anapara veya faiz ödemesinin yapılacağı son tarihtir. Vade, yatırımın risk ve getiri yapısını doğrudan etkiler.
+Likidite Oranı (Quick Ratio),Bir işletmenin kısa vadeli yükümlülüklerini stoklar hariç varlıklarıyla karşılama gücünü ölçen bir orandır. Finansal sağlamlık değerlendirmelerinde sıkça kullanılır.
+İşletme Sermayesi Döngüsü,Şirketin nakitini hammadde alımından satış gelirine dönüştürme sürecidir. Bu döngü, işletmenin operasyonel verimliliğini gösterir.
+Dönemsel Bütçe,Belirli bir dönem için gelir ve gider tahminlerinin planlandığı finansal tablodur. İşletmelerin mali kontrol ve stratejik planlamasında önemli rol oynar.
+Sermaye Maliyeti (WACC),Bir şirketin kullandığı borç ve özkaynakların ortalama maliyetidir. Finansal karar alma süreçlerinde yatırım projelerinin değerlendirilmesinde kullanılır.
+Vergi Planlaması,Vergi yükünü yasal çerçevede minimize etmeyi amaçlayan stratejik bir süreçtir. Şirketlerin finansal performansını artırmak için sıklıkla uygulanır.
+Fiyat Duyarlılığı (Duration),Bir tahvilin fiyatının faiz oranlarındaki değişimlere ne ölçüde tepki verdiğini gösteren ölçüttür. Duration, faiz riski yönetiminde ve portföy optimizasyonunda önemli bir göstergedir.
+Kredili Mevduat Hesabı,Müşteriye mevcut bakiyesinin üzerinde işlem yapma olanağı tanıyan kısa vadeli bir kredi türüdür. Bu hesap, genellikle likidite ihtiyacının karşılanması amacıyla kullanılır.
+Kâra Geçiş Noktası (Break-even),Bir işletmenin gelirlerinin tüm maliyetleri karşıladığı ve ne kâr ne zarar ettiği noktadır. Bu analiz, mali planlama ve fiyatlama stratejilerinde önemli bir araçtır.
+Marjinal Maliyet,Bir mal veya hizmetin bir birim daha üretilmesiyle ortaya çıkan ek maliyettir. Üretim kararlarında ve kaynak tahsisinde temel bir ekonomik göstergedir.
+İç Kontrol,Şirketin operasyonlarının etkinliğini, finansal raporlamanın doğruluğunu ve yasal uyumu sağlamaya yönelik sistematik süreçlerdir. İç kontrol mekanizmaları, kurumsal yönetimin temel unsurlarındandır.
+Şeffaflık,Finansal bilgilerin ve karar alma süreçlerinin açık, anlaşılır ve erişilebilir olmasını ifade eder. Yatırımcı güveni ve piyasa istikrarı açısından kritik bir ilkedir.
+Yolsuzluk Riski,Finansal işlemlerde veya kurumsal süreçlerde suistimal ve usulsüzlük yapılma olasılığıdır. Bu riskin azaltılması için güçlü iç denetim ve etik standartlar gereklidir.
+Uyum (Compliance),Bir kurumun faaliyetlerinde yasal düzenlemelere, standartlara ve etik ilkelere uygun hareket etme sürecidir. Etkin uyum yönetimi, kurumsal itibarı ve sürdürülebilirliği destekler.
+Vergi Kaçakçılığı,Devletin vergi gelirlerini azaltacak şekilde yasalara aykırı davranışlarda bulunma eylemidir. Bu durum ekonomik dengesizliklere ve kamu finansmanında kayıplara yol açar.
+Transfer Fiyatlandırması,İlişkili şirketler arasında gerçekleştirilen mal veya hizmet alışverişlerinde uygulanan fiyatlandırma yöntemidir. Uygun transfer fiyatlandırması, vergi düzenlemelerine uyum açısından büyük önem taşır.
+İşlem Hacmi (Volume),Belirli bir dönemde alınıp satılan menkul kıymet miktarını ifade eder. İşlem hacmi, piyasa likiditesinin ve yatırımcı ilgisinin önemli bir göstergesidir. Yüksek işlem hacmi genellikle güçlü piyasa hareketlerine ve yatırımcı güvenine işaret eder.
+Likidite Marjı,Likidite sağlamak amacıyla yapılan işlemlerde ortaya çıkan maliyet farkını veya spread’i ifade eder. Bu oran, piyasanın derinliğini ve işlem maliyetlerinin düzeyini belirlemede kullanılır. Düşük likidite marjı, daha etkin bir piyasa yapısını gösterir.
+Geri Dönüşüm (Recapitalization),Bir şirketin sermaye yapısının borç ve özkaynak dengesini değiştirecek şekilde yeniden düzenlenmesidir. Bu işlem genellikle finansal istikrarı sağlamak veya sermaye maliyetini düşürmek amacıyla yapılır. Şirket birleşmeleri veya kriz dönemlerinde sıkça başvurulan bir stratejidir.
+Ön Ödeme Cezası,Kredi borcunun vadesinden önce ödenmesi durumunda kredi veren kurum tarafından uygulanan ek ücrettir. Bu uygulama, finansal kurumun faiz gelirindeki kaybı telafi etmeyi amaçlar. Özellikle uzun vadeli kredilerde maliyet hesaplamasında dikkate alınması gerekir.
+Kâr Tahmini (Earnings Forecast),Bir şirketin gelecekte elde etmesi beklenen kâr miktarına ilişkin yapılan analitik projeksiyondur. Bu tahminler genellikle geçmiş performans, piyasa koşulları ve ekonomik göstergeler dikkate alınarak hazırlanır. Yatırımcı kararları ve hisse değerlemeleri üzerinde önemli bir etkisi vardır.
+Büyüme Hızı (Growth Rate),"Bir işletmenin gelir, kâr veya diğer finansal göstergelerinin belirli bir dönemdeki artış oranını ifade eder." Büyüme hızı, şirketin finansal sağlığını ve rekabet gücünü değerlendirmede kullanılır. Sürdürülebilir büyüme, uzun vadeli yatırım stratejilerinin temel unsurlarındandır.
+Rekabet Avantajı,Bir işletmeyi rakiplerinden üstün kılan özellik, kaynak veya stratejik yetkinliktir. Bu avantaj; maliyet liderliği, ürün farklılaştırması veya yenilik kapasitesi gibi unsurlardan kaynaklanabilir. Kalıcı rekabet avantajı, firmanın pazar payını ve kârlılığını artırır.
+Piyasa Yapıcısı (Market Maker),Finansal piyasalarda alım-satım fiyatı kotasyonu sağlayarak işlem sürekliliğini destekleyen kurumdur. Piyasa yapıcılar, likiditenin korunması ve fiyat istikrarının sağlanmasında kritik rol oynar. Özellikle düşük hacimli piyasalarda volatiliteyi azaltıcı etkiye sahiptirler.
+Stok Devir Hızı,Bir işletmenin stoklarını belirli bir dönemde kaç kez yenilediğini gösteren finansal orandır. Yüksek stok devir hızı, etkin stok yönetimine ve güçlü satış performansına işaret eder. Düşük oranlar ise stok fazlası veya talep yetersizliği gibi sorunlara işaret edebilir.
+Faiz Sensitivitesi,Finansal bir enstrümanın değerinin faiz oranlarındaki değişimlere ne ölçüde tepki verdiğini gösteren bir kavramdır. Bu duyarlılık, özellikle tahvil piyasasında risk analizinin temel unsurlarından biridir. Yüksek faiz sensitivitesi, fiyat volatilitesinin artma olasılığını beraberinde getirir.
+Döviz Türevleri,"Döviz kurlarındaki dalgalanmalara karşı korunmak veya spekülatif kazanç elde etmek amacıyla kullanılan finansal enstrümanlardır. Forward, swap ve opsiyon sözleşmeleri bu türev ürünlere örnektir. Bu araçlar, uluslararası ticarette kur riskini yönetmek için sıkça tercih edilir."
+Maliyet Hesaplama,"Üretim veya hizmet faaliyetleri sonucunda oluşan toplam maliyetlerin ayrıntılı olarak belirlenmesi sürecidir. Bu süreç, birim maliyetlerin ve kârlılık analizlerinin yapılmasına olanak sağlar. Etkin maliyet hesaplaması, işletmelerin fiyatlandırma ve stratejik planlama kararlarında önemli bir rol oynar."
+Kıymetli Evrak,"Belirli bir hakkı temsil eden ve devri mümkün olan yazılı belgelerdir. Çek, bono ve poliçe en yaygın kıymetli evrak türleridir. Bu belgeler, ticari işlemlerde ödeme kolaylığı ve güven unsuru sağlar."
+Çek,"Bir banka nezdinde bulunan mevduat hesabından belirli bir tutarın ödenmesi için düzenlenen yazılı ödeme emridir. Ticari işlemlerde nakit akışını kolaylaştırmak amacıyla kullanılır. Hukuki açıdan kambiyo senetleri arasında yer alır ve belirli bir düzenlemeye tabidir."
+Poliçe,"Bir sigorta sözleşmesinin koşullarını ve teminat kapsamını belirten resmi belgedir. Ayrıca kambiyo işlemlerinde borçluya ödeme yükümlülüğü getiren bir senet türü olarak da kullanılabilir. Poliçeler, finansal ve hukuki güvence sağlamak açısından büyük önem taşır."
+Sigorta Primi,"Sigorta kapsamındaki risklere karşı güvence elde etmek amacıyla sigortalı tarafından sigorta şirketine ödenen bedeldir. Prim miktarı, riskin niteliğine ve teminat tutarına göre belirlenir. Bu ödeme, sigorta sisteminin finansal sürdürülebilirliğini sağlar."
+Risk Yönetimi,"Bir kurumun karşılaşabileceği potansiyel riskleri tanımlama, ölçme, izleme ve kontrol etme sürecidir. Etkili bir risk yönetimi, finansal kayıpların azaltılmasını ve sürdürülebilir performansın korunmasını hedefler. Modern finans anlayışında stratejik karar süreçlerinin ayrılmaz bir parçasıdır."
+Kurumsal Finansman,"Şirketlerin sermaye yapısını, fon kaynaklarını ve yatırım kararlarını optimize etmeyi amaçlayan finans alanıdır. Bu disiplin, uzun vadeli değer yaratımı için borç ve özkaynak dengesinin etkin biçimde yönetilmesini inceler. Ayrıca birleşme, devralma ve halka arz süreçlerinde de temel rol oynar."
+Finansal Mühendislik,"Finansal problemlere matematiksel, istatistiksel ve hesaplamalı yöntemlerle çözüm üreten bir disiplindir. Yeni finansal ürünlerin ve risk yönetim stratejilerinin geliştirilmesinde kullanılır. Özellikle türev ürünlerin fiyatlandırılmasında ve portföy optimizasyonunda önemli bir uygulama alanına sahiptir."
+Sermaye Yapısı,"Bir şirketin finansmanında kullanılan borç ve özkaynak oranlarının dağılımını ifade eder. Uygun bir sermaye yapısı, hem riskin hem de sermaye maliyetinin optimize edilmesini sağlar. Şirketin uzun vadeli finansal istikrarı ve büyüme kapasitesi bu dengeye bağlıdır."
+Gider,"Bir işletmenin üretim, satış veya yönetim faaliyetlerini sürdürebilmek için katlandığı maliyetleri ifade eder. Bu maliyetler, doğrudan (hammadde, işçilik) veya dolaylı (idari giderler, pazarlama) nitelikte olabilir. Gider yönetimi, işletmenin kârlılık analizlerinde temel bir unsurdur."
+Gelir,"Bir işletmenin mal veya hizmet satışları sonucunda elde ettiği parasal kazançları kapsar. Gelir, finansal performansın ve faaliyet etkinliğinin temel göstergelerinden biridir. Gelirlerin doğru ölçülmesi, kârlılık ve vergi hesaplamaları açısından büyük önem taşır."
+Tahsilat,"Bir işletmenin müşterilerinden alacaklarını nakit veya banka aracılığıyla tahsil etme sürecidir. Tahsilat yönetimi, nakit akışının sürekliliğini sağlamak açısından kritik öneme sahiptir. Etkin tahsilat politikaları, likidite yönetimini güçlendirir ve finansal riskleri azaltır."
+Amortisman Yöntemleri,"Sabit kıymetlerin ekonomik ömrü boyunca maliyetlerinin dönemlere dağıtılmasını sağlayan yöntemlerdir. Doğrusal amortisman, azalan bakiyeler ve üretim miktarına dayalı yöntemler en yaygın olanlardır. Amortisman, hem finansal tabloların doğruluğunu hem de vergi hesaplarını etkiler."
+Stok Değerleme,"İşletmenin sahip olduğu stokların maliyetini belirlemek amacıyla kullanılan muhasebe yöntemlerini ifade eder. FIFO (İlk Giren İlk Çıkar), LIFO (Son Giren İlk Çıkar) ve Ortalama Maliyet yöntemleri en sık kullanılan yaklaşımlardır. Doğru stok değerleme, mali tabloların güvenilirliği açısından önemlidir."
+Karşılık,"İşletmelerin gelecekte ortaya çıkması muhtemel riskler veya yükümlülükler için ayırdıkları finansal rezervdir. Şüpheli alacaklar veya dava karşılıkları buna örnek gösterilebilir. Bu uygulama, muhasebenin ihtiyatlılık ilkesi çerçevesinde finansal riskleri azaltmayı amaçlar."
+Reeskont,"Bankaların vadeli alacak senetlerini iskonto ederek nakde çevirmesi işlemidir. Bu yöntem, işletmelere kısa vadeli likidite sağlar ve nakit akışını destekler. Reeskont işlemleri, özellikle kredi piyasasında faiz oranlarının belirlenmesinde dolaylı rol oynar."
+Finansman Gideri,"İşletmenin borçlanma yoluyla sağladığı fonlar için katlandığı maliyetleri ifade eder. Bu giderler genellikle faiz ödemeleri, komisyonlar ve kredi işlem ücretlerini içerir. Finansman giderlerinin doğru yönetimi, şirketin sermaye maliyetini optimize etmede önemli bir etkendir."
+Ortaklık Yapısı,"Bir şirketin sermayesinin pay sahipleri arasında nasıl dağıldığını ve ortaklar arasındaki ilişkileri tanımlar. Ortaklık yapısı, karar alma süreçlerinde kontrol dengesini ve kurumsal yönetişimi doğrudan etkiler. Bu yapı, yatırımcı güveni ve sermaye piyasası performansı açısından da önem taşır."
+Kur Farkı Geliri/Gideri,"Döviz cinsinden varlık ve yükümlülüklerin değerinde meydana gelen değişimlerden kaynaklanan gelir veya gider kalemleridir. Kur farkı, döviz kurlarındaki dalgalanmalara bağlı olarak pozitif (gelir) veya negatif (gider) etki yaratabilir. Bu farkların doğru yönetimi, finansal tabloların istikrarı açısından kritiktir."
+Vergi Yükümlülüğü,"Bir birey veya işletmenin, yasal düzenlemeler çerçevesinde devlete ödemekle yükümlü olduğu vergisel borçları ifade eder. Bu yükümlülük gelir, kurum, katma değer veya diğer dolaylı vergilerden kaynaklanabilir. Vergi yükümlülüğünün doğru yönetimi, finansal planlama ve yasal uyum açısından büyük önem taşır."
+Serbest Piyasa,"Fiyatların arz ve talep koşullarına göre belirlendiği, devlet müdahalesinin sınırlı olduğu ekonomik sistemdir. Bu sistemde kaynak dağılımı piyasa güçlerinin etkileşimiyle şekillenir. Serbest piyasa, verimlilik ve rekabet unsurlarının öne çıktığı bir ekonomik düzeni temsil eder."
+Monopson,"Bir piyasada yalnızca tek bir alıcının bulunduğu, dolayısıyla fiyat belirleme gücünün bu alıcıda olduğu piyasa yapısıdır. Bu durumda satıcılar, alıcının belirlediği koşullara bağımlı hale gelir. Monopson piyasalar genellikle işgücü veya tarımsal sektörlerde gözlemlenir."
+Monopol,"Tek bir satıcının tüm piyasa üzerinde hakimiyet kurduğu ve fiyatları belirleme gücüne sahip olduğu piyasa yapısıdır. Rekabetin olmaması nedeniyle tüketici refahı azalabilir ve fiyatlar genellikle yüksek seviyede seyreder. Monopol durumları, çoğu ekonomide düzenleyici kurumların müdahalesine tabidir."
+Oligopol,"Az sayıda büyük firmanın piyasayı kontrol ettiği ve birbirlerinin stratejik kararlarından etkilendiği piyasa yapısıdır. Bu yapı genellikle fiyat rekabeti yerine stratejik iş birlikleri veya farklılaşma politikalarına yol açar. Oligopol piyasalar, rekabet politikalarının en yoğun uygulandığı alanlardandır."
+Tam Rekabet,"Çok sayıda alıcı ve satıcının bulunduğu, homojen ürünlerin satıldığı ve piyasa bilgisine tam erişimin olduğu ideal piyasa yapısıdır. Bu durumda hiçbir aktör fiyatlar üzerinde etkili olamaz; fiyatlar tamamen arz-talep dengesiyle belirlenir. Tam rekabet modeli, ekonomik verimlilik analizlerinde temel bir referans noktasıdır."
+Marjinal Fayda,"Bir mal veya hizmetin bir birim daha tüketilmesiyle elde edilen ek faydayı ifade eder. Tüketici davranışlarını açıklayan temel mikroekonomik kavramlardan biridir. Azalan marjinal fayda yasası, her ek birim tüketimin sağladığı tatminin giderek azaldığını öne sürer."
+Serbest Nakit Akışı (FCF),"Bir işletmenin faaliyetlerinden elde ettiği nakitten yatırım ve işletme giderleri çıkarıldıktan sonra serbestçe kullanılabilir tutarı gösterir. Bu gösterge, şirketin borç ödeme gücünü ve yatırım potansiyelini yansıtır. Analistler tarafından şirket değerlemesinde sıkça kullanılan önemli bir finansal göstergedir."
+Enflasyon Beklentisi,"Piyasa katılımcılarının gelecekteki fiyat artış oranlarına ilişkin öngörülerini ifade eder. Bu beklentiler, para politikası kararlarını ve uzun vadeli faiz oranlarını doğrudan etkiler. Merkez bankaları, beklenti yönetimi yoluyla fiyat istikrarını sağlamayı amaçlar."
+Para Politikası Aracıları,"Merkez bankalarının ekonomik istikrarı sağlamak amacıyla kullandığı araçlardır; bunlar arasında faiz oranı düzenlemeleri, açık piyasa işlemleri ve zorunlu karşılık oranları bulunur. Bu araçlar para arzını ve kredi koşullarını etkileyerek makroekonomik hedeflere ulaşılmasını sağlar. Uygulanan politika, ekonomik büyüme, enflasyon ve istihdam üzerinde doğrudan etkilidir."
+Banka Rezervleri,"Bankaların, mevduat yükümlülüklerini karşılayabilmek amacıyla merkez bankasında tuttukları nakit karşılıklardır. Bu rezervler, para arzı kontrolü ve finansal istikrarın sağlanmasında önemli bir araçtır."
+Döviz Kuru Rejimi,"Bir ülkenin para biriminin diğer para birimleri karşısındaki değerinin nasıl belirlendiğini ifade eder. Sabit, dalgalı veya yönetilen dalgalı rejimler biçiminde uygulanabilir ve ekonomik istikrar üzerinde doğrudan etkilidir."
+Sübvansiyon,"Devletin belirli sektör, üretici veya tüketici gruplarına mali destek sağlamasıdır. Amaç, üretimi teşvik etmek, fiyat istikrarını korumak veya stratejik alanlarda rekabet gücünü artırmaktır."
+Tarife,"İthalat veya ihracat işlemlerinde uygulanan vergi, kota veya kısıtlamaları kapsar. Ekonomik politikaların bir aracı olarak, yerli üretimi koruma ve dış ticaret dengesini düzenleme amacı taşır."
+Vergi Teşviği,"Yatırımı veya üretimi teşvik etmek amacıyla sağlanan vergi indirimleri, muafiyetleri veya ertelemeleridir. Bu teşvikler, ekonomik büyümeyi ve istihdamı artırmayı hedefler."
+Cari Oran (Current Ratio),"Bir işletmenin kısa vadeli borçlarını ödeme gücünü ölçen finansal orandır. Dönen varlıkların kısa vadeli yükümlülüklere oranı olarak hesaplanır ve likidite durumuna dair önemli bir gösterge sunar."
+Likidite Tuzak (Liquidity Trap),"Faiz oranlarının çok düşük seviyelere gerilediği durumlarda, para arzındaki artışın yatırımları teşvik edememesi halidir. Bu durumda para politikası etkinliğini kaybeder ve ekonomik durgunluk derinleşebilir."
+Kredi Türevleri,"Kredi riskini transfer etmeye yarayan finansal enstrümanlardır. Bu araçlar, bankaların ve yatırımcıların kredi riskini yönetmesine olanak tanır ve finansal piyasaların derinliğini artırır."
+Kredi Swap (CDS),"Bir borçlunun temerrüde düşme riskine karşı koruma sağlayan türev üründür. CDS sözleşmeleri, finansal piyasalarda kredi riskinin fiyatlanmasını ve transferini mümkün kılar."
+Teminatlandırma,"Bir borç veya pozisyonun güvence altına alınması sürecidir. Finansal işlemlerde teminat, karşı taraf riskini azaltarak piyasaların güvenliğini ve istikrarını artırır."
+Finansal Kaldıraç,"Finansal kaldıraç, bir işletmenin borçlanma yoluyla özkaynak getirilerini artırma stratejisidir. Bu yöntem, sermayenin verimliliğini yükseltmeyi amaçlarken aynı zamanda finansal riskleri de büyütür. Kaldıraç kullanımı, faiz oranı ve borç geri ödeme yükümlülükleri nedeniyle şirketin finansal istikrarını etkileyebilir. Bu nedenle, optimal kaldıraç düzeyinin belirlenmesi finansal yönetimin temel karar alanlarından biridir."
+Nominal GSYH,"Nominal Gayri Safi Yurt İçi Hasıla (GSYH), bir ekonomide belirli bir dönemde üretilen tüm nihai mal ve hizmetlerin cari fiyatlar üzerinden hesaplanan toplam değeridir. Bu ölçüm, fiyat artışlarını yani enflasyonu içerdiği için ekonomik büyümenin gerçek hacmini tam olarak yansıtmaz. Nominal GSYH, ekonomideki parasal büyüklükleri ve fiyat hareketlerinin etkilerini analiz etmek için kullanılır. Bu nedenle, reel GSYH ile karşılaştırıldığında ekonomik performansın fiyat etkilerinden ayrıştırılmasına katkı sağlar."
+Reel GSYH,"Reel Gayri Safi Yurt İçi Hasıla, ekonomide üretilen tüm mal ve hizmetlerin sabit fiyatlarla hesaplanan toplam değeridir. Bu gösterge, enflasyonun etkilerini ortadan kaldırarak ekonomik büyümenin gerçek üretim artışını ortaya koyar. Reel GSYH, farklı dönemler arasındaki ekonomik büyümenin karşılaştırılmasında en güvenilir ölçütlerden biridir. Böylece, bir ülkenin refah düzeyindeki değişimi nominal fiyat hareketlerinden bağımsız olarak değerlendirmek mümkün olur."
+Gini Katsayısı,"Gini katsayısı, gelir veya servet dağılımındaki eşitsizliği ölçen istatistiksel bir göstergedir. 0 ile 1 arasında değişen bu katsayı, 0’a yaklaştıkça tam eşitliği, 1’e yaklaştıkça ise tam eşitsizliği ifade eder. Gini katsayısı, sosyal adalet, gelir politikaları ve ekonomik kalkınma düzeyi arasındaki ilişkilerin analizinde yaygın olarak kullanılır. Ayrıca, ülkeler arası karşılaştırmalarda toplumsal eşitsizliğin ölçülmesine yönelik önemli bir araçtır."
+Gelir Dağılımı,"Gelir dağılımı, toplumda üretilen toplam gelirin bireyler veya gruplar arasında nasıl paylaşıldığını gösteren ekonomik bir kavramdır. Adil bir gelir dağılımı, sürdürülebilir ekonomik büyüme ve sosyal istikrar açısından kritik öneme sahiptir. Eşitsiz gelir dağılımı, sosyal huzursuzluklara ve ekonomik verimlilik kayıplarına yol açabilir. Bu nedenle, devlet politikaları ve vergi sistemleri genellikle gelir dağılımını dengeleyici bir araç olarak kullanılmaktadır."
+İstihdam Oranı,"İstihdam oranı, çalışabilir nüfusun ne kadarının aktif olarak istihdam edildiğini gösteren makroekonomik bir göstergedir. Bu oran, ekonomik büyüme, iş gücü piyasası performansı ve refah düzeyi hakkında önemli bilgiler sağlar. Yüksek istihdam oranı, üretkenliğin ve gelir düzeyinin artmasına katkıda bulunur. Ancak istihdamın kalitesi, ücret düzeyi ve kayıt dışı istihdam oranı da ekonomik analizlerde dikkate alınması gereken tamamlayıcı unsurlardır."
+İşsizlik Oranı,"İşsizlik oranı, iş arayan ancak iş bulamayan bireylerin toplam iş gücü içindeki oranını ifade eder. Bu oran, ekonominin üretim kapasitesinin etkin kullanılıp kullanılmadığını gösteren temel göstergelerden biridir. Yüksek işsizlik oranı, hem ekonomik büyümede yavaşlamayı hem de toplumsal refah kaybını işaret eder. Dolayısıyla, işsizlik oranındaki değişimler ekonomi politikalarının başarısını değerlendirmede önemli bir ölçüt olarak kabul edilir."
+Kamu Borcu,"Kamu borcu, devletin finansman ihtiyaçlarını karşılamak amacıyla iç ve dış kaynaklardan sağladığı toplam borç stokunu ifade eder. Bu borç, genellikle bütçe açıklarının finansmanında veya yatırımların desteklenmesinde kullanılır. Kamu borcu düzeyi, mali sürdürülebilirlik açısından kritik bir göstergedir. Aşırı borçlanma ise faiz yükünü artırarak ekonomik bağımsızlığı ve mali istikrarı olumsuz etkileyebilir."
+Bütçe Açığı,"Bütçe açığı, devletin belirli bir dönemdeki toplam harcamalarının gelirlerini aşması durumunu ifade eder. Açıklar genellikle borçlanma veya para arzı artırımı yoluyla finanse edilir. Sürekli bütçe açıkları, enflasyonist baskılara ve kamu borcunun artmasına yol açabilir. Bu nedenle, mali disiplinin sağlanması ve sürdürülebilir bütçe politikalarının uygulanması ekonomi yönetimi açısından büyük önem taşır."
+Bütçe Fazlası,"Bütçe fazlası, devletin belirli bir dönemdeki gelirlerinin giderlerinden yüksek olduğu durumu tanımlar. Bu durum, kamu maliyesinin güçlü ve sürdürülebilir bir yapıda olduğunu gösterir. Elde edilen fazla gelir, borçların azaltılması veya yatırım harcamalarına yönlendirilerek ekonomik istikrarı güçlendirebilir. Ancak uzun süreli bütçe fazlaları, ekonomik durgunluk dönemlerinde kamu harcamalarının yetersiz kalmasına da yol açabilir."
+Vergi Gelirleri,"Vergi gelirleri, devletin kamu hizmetlerini (eğitim, sağlık, altyapı vb.) finanse etmek amacıyla yasal yetkisine dayanarak gerçek ve tüzel kişilerden topladığı zorunlu ve karşılıksız ödemelerdir. Bir ülkenin maliye politikasının temelini oluşturan bu gelirler, ekonomik istikrarın sağlanması ve gelir dağılımının düzenlenmesinde de kritik bir rol oynar."
+İç Borç,"İç borç, bir devletin kendi ülke sınırları içinde yerleşik kişi, kurum ve bankacılık sisteminden ulusal para birimi cinsinden borçlanmasını ifade eder. Genellikle bütçe açıklarını finanse etmek veya kamu yatırımlarını desteklemek amacıyla Hazine bonosu ve devlet tahvili gibi menkul kıymetlerin ihracı yoluyla gerçekleştirilir."
+Dış Borç,"Dış borç, bir ülkenin yabancı hükümetler, uluslararası finansal kuruluşlar (IMF, Dünya Bankası gibi) veya uluslararası sermaye piyasalarından döviz cinsinden sağladığı finansal kaynaklardır. Bu borçlanma ülkenin ödemeler dengesini etkiler ve genellikle büyük ölçekli projelerin finansmanı veya döviz rezervlerinin güçlendirilmesi için kullanılır."
+Para Birimi,"Para birimi, bir devlet tarafından ihraç edilen ve yasal olarak tanınan, mal ve hizmetlerin değişimini kolaylaştıran, bir hesap birimi ve değer saklama aracı işlevi gören resmi ödeme aracıdır. Merkez bankası tarafından yönetilen bu birim, ulusal ekonominin temelini oluşturur ve para politikasının uygulanmasında merkezi bir rol oynar."
+Rezerv Para Birimi,"Rezerv para birimi, dünya genelindeki merkez bankaları tarafından uluslararası rezervlerinin bir parçası olarak tutulan, küresel ticarette ve finansal işlemlerde yaygın olarak kabul gören, istikrarlı ve yüksek likiditeye sahip bir ulusal para birimidir. Başta ABD Doları olmak üzere bu para birimleri, uluslararası borçların ödenmesinde ve döviz kuru müdahalelerinde kullanılır."
+Devalüasyon,"Devalüasyon, sabit döviz kuru rejimini uygulayan bir ülkede, para otoritesinin (genellikle merkez bankası) aldığı resmi bir kararla ulusal para biriminin yabancı para birimleri karşısındaki değerinin bilinçli olarak düşürülmesidir. Bu politika genellikle dış ticaret açığını azaltarak ihracatı teşvik etmek ve ülkenin uluslararası rekabet gücünü artırmak amacıyla uygulanır."
+Revaluasyon,"Revaluasyon, devalüasyonun tersine, sabit kur rejiminde ulusal para biriminin dış değerinin hükümet kararıyla planlı bir şekilde yükseltilmesi işlemidir. Genellikle enflasyonist baskıları kontrol altına almak (ithal ürünleri ucuzlatarak) veya aşırı dış ticaret fazlasını dengelemek amacıyla başvurulan bir para politikası aracıdır."
+Finansal Türev,"Finansal türev, değerini hisse senedi, tahvil, emtia veya döviz gibi başka bir 'dayanak varlığın' piyasa performansından alan, taraflar arasında yapılan bir finansal sözleşmedir. Bu enstrümanlar, gelecekteki fiyat dalgalanmalarına karşı riskten korunma (hedging), arbitraj veya spekülatif kâr elde etme gibi amaçlarla kullanılır."
+Opsiyon Sözleşmesi,"Opsiyon sözleşmesi, sahibine belirli bir dayanak varlığı, önceden belirlenmiş bir fiyattan (kullanım fiyatı) ve belirli bir vadeye kadar satın alma (alım opsiyonu) veya satma (satım opsiyonu) hakkı tanıyan, ancak bu işlemi yapma yükümlülüğü getirmeyen bir türev üründür. Alıcı bu hak için satıcıya bir prim öder ve potansiyel zararını ödediği primle sınırlar."
+Vadeli İşlem Sözleşmesi (Future),"Vadeli işlem sözleşmesi, taraflara standartlaştırılmış miktar ve kalitedeki bir dayanak varlığı, gelecekte belirli bir tarihte ve bugünden anlaşılan bir fiyattan alma veya satma yükümlülüğü getiren yasal bir anlaşmadır. Bu sözleşmeler organize borsalarda işlem görür ve taraflar için hem alım hem de satım pozisyonunda bağlayıcıdır."
+Forward Sözleşme,"Forward sözleşme, taraflardan birinin gelecekteki belirli bir tarihte, bugünden anlaşılan bir fiyattan belirli bir miktar dayanak varlığı (döviz, emtia vb.) satın almayı, diğerinin ise satmayı taahhüt ettiği, tezgâh üstü piyasalarda (OTC) işlem gören bir türev sözleşmedir. Borsada işlem gören vadeli işlem sözleşmelerinin aksine standart olmayan bu sözleşmeler, tarafların ihtiyaçlarına göre esnek bir şekilde (miktar, vade, teslimat koşulları) özelleştirilebilir."
+Marjin Hesabı,"Marjin hesabı, özellikle vadeli işlem ve opsiyon piyasalarında veya kredili menkul kıymet alımlarında, yatırımcının pozisyon açabilmek için aracı kuruma yatırmak zorunda olduğu bir teminat hesabıdır. Bu hesap, yatırımcının piyasadaki olası fiyat dalgalanmalarından kaynaklanabilecek potansiyel zararlarını karşılamak ve karşı taraf riskini (default risk) minimize etmek için bir güvence mekanizması olarak işlev görür."
+Kısa Vadeli Borç,"Kısa vadeli borçlar, muhasebe ve finans terminolojisinde, bir şirketin bir yıl veya bir faaliyet dönemi içinde geri ödemesi gereken tüm finansal yükümlülüklerini ifade eder. Bilanconun pasif tarafında 'Kısa Vadeli Yabancı Kaynaklar' altında yer alan bu borçlar, ticari borçlar, kısa vadeli banka kredileri ve ödenecek vergi gibi kalemleri içerir ve şirketin likidite yönetiminin önemli bir göstergesidir."
+Uzun Vadeli Borç,"Uzun vadeli borçlar, bir işletmenin vadesi bir yılı aşan finansal yükümlülükleridir ve bilançonun 'Uzun Vadeli Yabancı Kaynaklar' bölümünde raporlanır. Genellikle duran varlık yatırımlarını (fabrika, makine vb.) finanse etmek için kullanılan bu borçlar, tahvil ihraçları ve uzun vadeli banka kredileri gibi kalemleri içerir ve şirketin sermaye yapısı ile finansal kaldıraç oranını belirlemede kilit rol oynar."
+Döviz Swap,"Döviz swapı, iki tarafın belirli bir zaman dilimi için farklı para birimleri cinsinden anapara ve/veya faiz ödemelerini takas ettiği bir finansal türev sözleşmesidir. Genellikle taraflar sözleşme başında anapara tutarlarını değiştirir, vade boyunca faiz akışlarını takas eder ve vade sonunda anaparaları geri takas ederler. Bu işlem, döviz kuru riskinden korunmak veya daha uygun koşullarda yabancı para biriminden fon sağlamak amacıyla kullanılır."
+Finansman Oranı,"Finansman oranı, genel bir ifade olup genellikle şirketin varlıklarını finanse etme yöntemini analiz eden oranları tanımlar; en yaygın kullanılanı ise Borç/Özkaynak Oranı'dır (Kaldıraç Oranı). Bu oran, şirketin toplam borçlarının toplam özkaynaklarına bölünmesiyle hesaplanır ve firmanın ne ölçüde borçlanma ile finanse edildiğini göstererek finansal risk seviyesini ortaya koyar. Yüksek bir oran, yüksek riske ancak potansiyel olarak daha yüksek özkaynak getirisine işaret eder."
+Kayıtlı Sermaye,"Kayıtlı sermaye sistemi, halka açık anonim şirketlerin esas sözleşmelerinde belirleyebilecekleri, yönetim kuruluna sermaye artırımı için tanınan azami yetki tavanını ifade eder. Bu sistem, şirketin genel kurul kararına ihtiyaç duymaksızın, belirlenen bu tavana kadar hızlı ve esnek bir şekilde hisse senedi ihraç ederek sermaye artırmasına olanak tanır. Şirketin fiili sermayesini değil, ulaşabileceği potansiyel sermaye limitini gösterir."
+Çıkarılmış Sermaye,"Çıkarılmış sermaye, bir şirketin kayıtlı sermaye tavanı içinde, satışı yapılarak taahhüt edilmiş ve ortaklar tarafından ödenmiş veya ödeneceği taahhüt edilmiş olan sermaye kısmıdır. Bu tutar, şirketin bilançosunda yer alan ve ticari faaliyetlerinde fiilen kullandığı gerçek sermayesini temsil eder. Kayıtlı sermaye bir tavan iken, çıkarılmış sermaye o tavana kadar ulaşılmış olan fiili miktardır."
+Nominal Değer,"Nominal değer (veya itibari değer), bir menkul kıymetin (hisse senedi, tahvil vb.) üzerinde yasal olarak belirtilen ve muhasebe kayıtlarında kullanılan değeridir. Bu değer, özellikle hisse senetleri için piyasa değeriyle genellikle hiçbir ilişkisi olmayan sembolik bir rakamken, tahviller için vade sonunda yatırımcıya geri ödenecek anapara tutarını ifade eder. Şirketin toplam sermayesi, çıkarılmış hisse senedi sayısının nominal değer ile çarpılmasıyla hesaplanır."
+Piyasa Yapısı,"Piyasa yapısı, bir piyasadaki firma sayısı, firmaların büyüklüğü, ürün farklılaştırma derecesi ve piyasaya giriş-çıkış kolaylığı gibi özelliklerin bütünüdür ve piyasanın rekabet düzeyini belirler. İktisat teorisinde piyasalar; tam rekabet, tekel (monopol), tekelci rekabet ve oligopol olmak üzere dört temel yapıya ayrılır. Her bir yapı, firmaların fiyatlandırma gücünü, üretim kararlarını ve piyasa verimliliğini farklı şekillerde etkiler."
+Likidite Riski Açığı,"Likidite riski, bir kurumun varlıklarını bilanço değerinden önemli bir kayıp yaşamadan nakde çevirememesi veya vadesi gelen yükümlülüklerini karşılayacak yeterli fon bulamaması durumudur. Bu risk, özellikle bankacılıkta, vadesi gelen mevduat ödemeleri gibi kısa vadeli yükümlülüklerin, vadesi daha uzun olan krediler gibi varlıklarla finanse edilmesinden kaynaklanan vade uyumsuzluğu nedeniyle ortaya çıkar."
+Döviz Kuru Riski,"Döviz kuru riski, ulusal paranın yabancı paralar karşısındaki değerinde meydana gelen beklenmedik dalgalanmalar nedeniyle bir işletmenin veya yatırımcının varlıklarının, yükümlülüklerinin ve nakit akışlarının değerinde oluşabilecek potansiyel finansal kayıptır. Özellikle uluslararası ticaret yapan, yabancı para cinsinden borcu veya alacağı olan firmalar için önemli bir belirsizlik kaynağıdır."
+Faiz Marjı,"Faiz marjı, bir finansal kuruluşun, özellikle de bankaların, faiz geliri getiren varlıklarından (krediler, menkul kıymetler vb.) elde ettiği ortalama faiz oranı ile faiz ödediği yükümlülüklerine (mevduatlar, alınan krediler vb.) ödediği ortalama faiz oranı arasındaki farkı ifade eder. Genellikle yüzde olarak ifade edilen Net Faiz Marjı (NIM), bankanın temel aracılık faaliyetlerindeki kârlılığının ve verimliliğinin en önemli göstergelerinden biridir."
+Net Faiz Geliri,"Net faiz geliri, bir bankanın belirli bir dönemde krediler ve diğer finansal varlıklardan elde ettiği toplam faiz gelirleri ile mevduat sahiplerine ve diğer fon sağlayıcılara ödediği toplam faiz giderleri arasındaki mutlak farktır. Banka bilançosunun gelir tablosunda yer alan bu kalem, bankanın operasyonel kârlılığının ana bileşenini oluşturur ve faiz marjının parasal karşılığıdır."
+Bankacılık Faaliyetleri,"Bankacılık faaliyetleri, finansal sistemde aracılık rolü üstlenen bankaların yürüttüğü temel ve yan hizmetlerin bütününü kapsar. Bu faaliyetlerin en başında ekonomideki atıl fonları toplamak (mevduat kabulü), bu fonları ihtiyacı olanlara aktarmak (kredi verme) ve ödemeler sistemini (havale, EFT vb.) işletmek gelir. Ayrıca günümüzde portföy yönetimi, dış ticaret finansmanı ve yatırım danışmanlığı gibi çok çeşitli modern finansal hizmetler de bu kapsama girer."
+İç Verim Oranı (Yield to Maturity),"İç Verim Oranı (YTM), bir tahvilin veya borçlanma aracının mevcut piyasa fiyatını, vade sonuna kadar sağlayacağı tüm nakit akışlarının (faiz kuponları ve anapara ödemesi) bugünkü değerine eşitleyen iskonto oranıdır. Bu oran, yatırımcının tahvili vadesine kadar elinde tutması ve kupon ödemelerini aynı oranla yeniden yatırıma yönlendirmesi varsayımı altında, bu yatırımdan elde edeceği yıllık toplam getiriyi gösterir."
+Geri Alım Anlaşması (Repo),"Geri alım anlaşması (Repo), bir tarafın menkul kıymetleri (genellikle devlet tahvili gibi) diğer bir tarafa, ileriki bir tarihte önceden belirlenmiş daha yüksek bir fiyattan geri satın alma taahhüdüyle satmasını içeren kısa vadeli bir fonlama işlemidir. Esasen teminatlı bir kredi işlemi olan repo, para piyasalarının en önemli likidite yönetim araçlarından biridir ve merkez bankaları tarafından para politikası aracı olarak aktif şekilde kullanılır."
+Tahsil Edilemez Alacak (Karşılığı),"Muhasebede şüpheli ticari alacaklar karşılığı olarak da bilinen bu kalem, bir işletmenin vadesi geçmiş ve tahsil kabiliyeti zayıflamış alacakları için, ihtiyatlılık ilkesi gereği ayırdığı bir gider karşılığıdır. Bu işlem, bilançodaki alacakların gerçeğe daha uygun bir değerle gösterilmesini sağlar ve tahsil edilememe riskinden doğacak potansiyel zararı gelir tablosuna önceden yansıtır."
+Fon Yönetimi,"Fon yönetimi (veya portföy yönetimi), yatırımcılardan toplanan birikimlerle oluşturulan yatırım fonu veya emeklilik fonu gibi kolektif yatırım araçlarının, önceden belirlenmiş bir yatırım stratejisi ve risk profili çerçevesinde profesyonel yöneticiler tarafından yönetilmesi sürecidir. Bu süreç, piyasa analizi, varlık seçimi, portföy çeşitlendirmesi ve riskin minimize edilmesi gibi uzmanlık gerektiren faaliyetleri içerir."
+Katılım Fonu,"Katılım fonu, portföyünü faizsiz finans prensiplerine ve İslami kurallara (fıkıh) uygun olarak oluşturan ve yöneten bir yatırım fonu türüdür. Bu fonlar, faiz (riba) geliri içeren enstrümanlara, alkol, tütün ve kumar gibi İslami açıdan uygun görülmeyen sektörlere yatırım yapmaktan kaçınır. Bunun yerine, kira sertifikaları (sukuk), faizsiz hisse senetleri ve ortaklığa dayalı finansman modelleri gibi varlıklara yatırım yaparak yatırımcılarına getiri sağlamayı hedefler."
+Bireysel Emeklilik Sistemi (BES),"Bireysel Emeklilik Sistemi (BES), bireylerin aktif çalışma dönemlerinde yaptıkları düzenli tasarrufları uzun vadeli yatırıma yönlendirerek, emeklilik dönemlerinde mevcut yaşam standartlarını sürdürebilmeleri için ek bir gelir kaynağı oluşturmayı amaçlayan, devlet katkısıyla desteklenen özel bir tasarruf ve yatırım sistemidir. Sistem, zorunlu sosyal güvenlik sistemini tamamlayıcı bir nitelik taşır ve katılımcıların fonlarını profesyonel portföy yönetim şirketleri aracılığıyla çeşitli sermaye piyasası araçlarında değerlendirmesine olanak tanır."
+Sigorta Şirketi,"Sigorta şirketi, bireylerin veya kurumların karşılaşabileceği belirli riskleri (kaza, hastalık, yangın vb.), sigorta poliçesi adı verilen bir sözleşme karşılığında ve belirli bir prim (ücret) karşılığında üstlenen finansal bir kurumdur. Büyük sayılar yasası prensibine göre hareket eden bu şirketler, topladıkları primleri bir havuzda biriktirerek riskin gerçekleşmesi durumunda sigortalıya tazminat öder ve böylece riskin finansal etkisini dağıtarak yönetir."
+Risk Primi,"Risk primi, bir yatırımcının risksiz bir varlığa (örneğin devlet tahvili) yatırım yapmak yerine, daha yüksek belirsizlik içeren riskli bir varlığa (örneğin hisse senedi) yatırım yapmayı kabul etmesi için talep ettiği ek getiri oranıdır. Bu prim, yatırımın kredi riski, likidite riski veya piyasa riski gibi unsurlarından kaynaklanan belirsizliği telafi etmeyi amaçlar ve finansal varlıkların fiyatlandırılmasında temel bir bileşendir."
+Teminat Değeri,"Teminat değeri, bir borç ilişkisinde alacaklının riskini güvence altına almak amacıyla borçlu tarafından gösterilen bir varlığın (gayrimenkul, menkul kıymet vb.), olası bir temerrüt durumunda paraya çevrilmesiyle elde edilebilecek tahmini piyasa değeridir. Finansal kuruluşlar, genellikle piyasa dalgalanmalarına karşı bir marj bırakmak için varlığın piyasa değerinin belirli bir yüzdesini (teminat/kredi oranı) teminat değeri olarak kabul ederler."
+Para Piyasası,"Para piyasası, vadesi genellikle bir yıldan kısa olan, yüksek likiditeye ve düşük riske sahip finansal varlıkların alınıp satıldığı piyasadır. Bankalar, büyük şirketler ve kamu kurumları gibi aktörlerin kısa vadeli fon fazlalarını değerlendirdiği veya kısa vadeli fon ihtiyaçlarını karşıladığı bu piyasa, Hazine bonoları, repo-ters repo işlemleri ve mevduat sertifikaları gibi araçları içerir ve ekonominin likidite yönetiminde kritik bir rol oynar."
+Kaldıraç Oranı,"Finansal kaldıraç oranı, bir şirketin varlıklarını finanse etmek için ne ölçüde borç kullandığını gösteren bir analiz rasyosudur ve genellikle Toplam Borç / Toplam Özkaynak formülü ile hesaplanır. Bu oran, şirketin finansal risk seviyesini ölçer; yüksek bir kaldıraç, faiz giderleri yoluyla kârlılık üzerinde baskı yaratabilir ve ekonomik durgunluk dönemlerinde şirketi daha kırılgan hale getirebilir, ancak başarılı dönemlerde özkaynak kârlılığını artırma potansiyeli de sunar."
+Türev Piyasası,"Türev piyasası, finansal değerini başka bir dayanak varlığın (hisse senedi, döviz, emtia vb.) fiyatından alan vadeli işlem (futures), opsiyon, swap ve forward gibi finansal enstrümanların işlem gördüğü organize (borsalar) veya tezgâh üstü (OTC) piyasalardır. Bu piyasalar, yatırımcılara ve şirketlere gelecekteki fiyat dalgalanmalarına karşı riskten korunma (hedging), arbitraj yapma veya spekülatif pozisyonlar alma imkânı sunar."
+Aracı Kuruluş Ücretleri,"Aracı kuruluş ücretleri (veya komisyon), yatırımcıların sermaye piyasalarında menkul kıymet alım-satım gibi işlemleri gerçekleştirmelerine aracılık eden banka veya aracı kurumların, bu hizmetleri sunmaları karşılığında tahsil ettikleri bedellerdir. Bu ücretler genellikle işlem hacminin belirli bir yüzdesi olarak hesaplanır ve saklama hizmetleri, danışmanlık veya portföy yönetimi gibi ek hizmetler için de farklı ücretlendirme modelleri uygulanabilir."
+Likidite Yönetimi,"Likidite yönetimi, bir işletmenin veya finansal kuruluşun, kısa vadeli borçlarını ve operasyonel harcamalarını zamanında karşılayabilmek için yeterli nakit ve nakde kolay çevrilebilir varlığa sahip olmasını sağlama sürecidir. Bu süreç, nakit akışlarını dikkatli bir şekilde tahminlemeyi, nakit giriş ve çıkışları arasındaki zamanlamayı optimize etmeyi ve beklenmedik ihtiyaçlar için yeterli likidite tamponu bulundurmayı içerir."
+Finansal Modelleme,"Finansal modelleme, bir şirketin veya bir projenin gelecekteki finansal performansını tahmin etmek amacıyla, geçmiş verileri, varsayımları ve ekonomik değişkenleri kullanarak matematiksel bir simülasyon oluşturma sürecidir. Genellikle elektronik tablolama programları (örn. Excel) kullanılarak yapılan bu modeller, yatırım değerlemesi, bütçeleme, senaryo analizi ve stratejik karar alma gibi kritik kurumsal finans faaliyetlerinde temel bir araç olarak kullanılır."
+Duyarlılık Analizi (Sensitivity Analysis),"Finansal modelleme ve risk yönetiminde kullanılan duyarlılık analizi, bir modelin çıktısının (örneğin Net Bugünkü Değer veya kârlılık) belirli bir girdi değişkenindeki (faiz oranı, satış hacmi vb.) değişikliklere ne kadar hassas olduğunu ölçen bir tekniktir. Diğer tüm değişkenler sabit tutulurken tek bir değişkenin değiştirilmesiyle, hangi varsayımların sonuçlar üzerinde en kritik etkiye sahip olduğu belirlenir ve bu sayede belirsizlik kaynakları daha iyi anlaşılır."
+Senaryo Analizi,"Senaryo analizi, gelecekteki belirsizlikleri yönetmek amacıyla, birden fazla kilit değişkenin aynı anda değiştirildiği farklı ve tutarlı varsayımlar setleri (senaryolar) altında bir projenin veya şirketin finansal sonuçlarını değerlendiren bir stratejik planlama yöntemidir. Genellikle kötümser, iyimser ve baz (temel) senaryolar oluşturularak, işletmenin farklı ekonomik koşullar altındaki potansiyel performans aralığı incelenir ve stratejik esneklik test edilir."
+Stres Testi,"Stres testi, özellikle finansal kuruluşların risk yönetiminde kullanılan, senaryo analizinin daha ileri bir formudur ve bir kurumun veya yatırım portföyünün, istisnai derecede olumsuz ancak gerçekleşmesi muhtemel (extreme but plausible) şoklar karşısındaki dayanıklılığını ölçmeyi amaçlar. Büyük bir piyasa çöküşü, faiz oranlarında ani bir sıçrama veya ciddi bir ekonomik durgunluk gibi senaryolar simüle edilerek, kurumun sermaye yeterliliği ve potansiyel zafiyetleri değerlendirilir."
+Sürdürülebilirlik Raporlaması,"Sürdürülebilirlik raporlaması, bir şirketin sadece finansal performansını değil, aynı zamanda operasyonlarının çevresel, sosyal ve kurumsal yönetişim (ESG) alanlarındaki etkilerini, politikalarını ve performansını kamuya açıklaması sürecidir. Yatırımcılar ve diğer paydaşlar için şirketin uzun vadeli değer yaratma potansiyelini, risklerini ve fırsatlarını daha bütünsel bir bakış açısıyla değerlendirme imkânı sunan bu raporlar, kurumsal şeffaflığın ve hesap verebilirliğin önemli bir aracı haline gelmiştir."
+ESG (Çevresel, Sosyal ve Yönetişim),"ESG, bir şirketin veya yatırımın sürdürülebilirlik ve etik performansını değerlendirmek için kullanılan üç temel kriteri ifade eden bir çerçevedir: Çevresel (Environmental) kriterler iklim değişikliği ve kaynak yönetimi gibi konuları; Sosyal (Social) kriterler çalışan hakları ve toplumsal ilişkiler gibi unsurları; Yönetişim (Governance) kriterleri ise şirket yönetimi, hissedar hakları ve şeffaflık gibi konuları kapsar. Bu faktörler, finansal olmayan ancak şirketin uzun vadeli risk ve getiri profilini önemli ölçüde etkileyen unsurlar olarak kabul edilmektedir."
+Yeşil Bono,"Yeşil bono (Green Bond), ihraçtan elde edilen fonların tamamının yalnızca yenilenebilir enerji, enerji verimliliği, sürdürülebilir atık yönetimi veya temiz ulaşım gibi çevresel fayda sağlayan 'yeşil' projelerin finansmanında veya yeniden finansmanında kullanılmasını taahhüt eden bir borçlanma aracıdır. Yatırımcılara hem finansal getiri hem de pozitif çevresel etki yaratma imkânı sunan bu enstrümanlar, sürdürülebilir finansmanın önemli bir bileşenidir."
+Sosyal Bono,"Sosyal bono (Social Bond), yeşil bonoya benzer şekilde, ihraçtan sağlanan gelirin özel olarak belirli bir hedef kitleye yönelik pozitif sosyal etki yaratmayı amaçlayan projeleri finanse etmek için kullanıldığı bir sabit getirili menkul kıymettir. Bu projeler genellikle uygun fiyatlı konut sağlanması, temel altyapıya (içme suyu, sağlık hizmetleri vb.) erişim, gıda güvenliği ve sosyoekonomik kalkınma gibi alanlara odaklanır."
+Sermaye Piyasası Araçları,"Sermaye piyasası araçları, genellikle bir yıldan uzun vadeli fon arz ve talebinin karşılaştığı sermaye piyasalarında işlem gören, yatırımcısına mülkiyet (hisse senetleri) veya alacaklılık hakkı (tahviller) sağlayan menkul kıymetlerin genel adıdır. Hisse senetleri, özel sektör ve kamu borçlanma araçları (tahvil, bono), yatırım fonu katılma payları ve varant gibi türev araçlar bu kategoriye girer ve tasarrufların yatırıma dönüşmesini sağlarlar."
+Varant,"Varant, sahibine, dayanak varlığı olan bir menkul kıymeti (genellikle hisse senedi veya endeks) ya da göstergeyi, belirli bir vadeye kadar veya belirli bir vadede, önceden belirlenmiş bir fiyattan (ihraççıdan) alma veya satma hakkı veren, ancak yükümlülük getirmeyen, menkul kıymet niteliğindeki bir sermaye piyasası aracıdır. Genellikle yatırım ve aracı kuruluşlar tarafından ihraç edilen varantlar, yatırımcılara kaldıraçlı işlem yapma ve riskten korunma imkânı tanır."
+Sertifika,"Sertifika, yatırımcılara hisse senedi, endeks, emtia veya döviz gibi bir dayanak varlığın performansına kolayca yatırım yapma imkânı sunan, bankalar veya aracı kurumlar tarafından ihraç edilen yapılandırılmış bir sermaye piyasası aracıdır. Dayanak varlığa fiziksel olarak sahip olmadan onun fiyat hareketlerinden kâr etme veya korunma olanağı sağlar ve bir borçlanma aracı niteliği taşır. Yatırımcıların doğrudan erişimi zor olan piyasalara veya varlık sepetlerine erişimini kolaylaştırır."Takas,İşlemlerin merkezi karşı taraf aracılığıyla netleştirilmesi ve teminat yönetimi süreci.
+Kıymetleme (Valuation),"Kıymetleme veya değerleme, bir varlığın, bir şirketin veya bir menkul kıymetin adil ekonomik değerini belirli varsayımlar ve metodolojiler kullanarak sistematik bir şekilde tahmin etme sürecidir. Bu süreçte İndirgenmiş Nakit Akımları (İNA), piyasa çarpanları analizi veya net aktif değeri gibi çeşitli yöntemler kullanılır ve sonuçlar yatırım, birleşme ve devralma, finansal raporlama gibi stratejik kararlar için temel bir dayanak oluşturur."
+Geri Alım (Buyback),"Hisse senedi geri alımı, bir şirketin sermaye tahsisi stratejisi olarak, piyasada işlem gören kendi hisselerini satın alarak tedavüldeki hisse senedi sayısını azaltması işlemidir. Bu eylem genellikle yönetimin hisselerin piyasa fiyatının altında değerlendiğine dair bir sinyal olarak yorumlanır, Hisse Başına Kâr (HBK) oranını matematiksel olarak artırır ve hissedarlara kâr payı dağıtımına bir alternatif olarak sermaye iadesi sağlar."
+Borsa Komisyonu,"Borsa komisyonu, yatırımcıların hisse senedi, tahvil veya türev ürünler gibi sermaye piyasası araçlarını alıp satarken, bu işlemlere aracılık eden aracı kuruma (broker) ödediği hizmet bedelidir. Genellikle işlem hacminin belirli bir yüzdesi veya sabit bir miktar olarak belirlenen bu komisyon, yatırımcının brüt getirisini azaltan doğrudan bir işlem maliyeti kalemidir ve aracı kurumun temel gelir kaynaklarından birini oluşturur."
+Şeffaflık Raporu,"Şeffaflık, kurumsal yönetimin temel ilkelerinden biri olup, bir şirketin finansal durumu, performansı, yönetimi ve riskleri hakkında ilgili, doğru ve zamanında bilgiyi tüm paydaşlarına açıkça sunmasını ifade eder. Finansal tablolar, faaliyet raporları ve özel durum açıklamaları gibi araçlarla sağlanan şeffaflık, piyasalardaki bilgi asimetrisini azaltarak yatırımcı güvenini artırır ve sermaye maliyetini düşürür."
+İşlem Ücreti,"İşlem ücreti, bir finansal işlemin gerçekleştirilmesi sırasında ortaya çıkan ve yatırımcının katlandığı tüm doğrudan maliyetleri kapsayan genel bir terimdir. Bu maliyetler, aracı kuruma ödenen komisyonların yanı sıra, borsanın aldığı pazar payı, takas ve saklama ücretleri ile devlete ödenen BSMV gibi vergisel yükümlülükleri de içerebilir ve yatırımın net kârlılığını doğrudan etkiler."
+Kâr Yönetimi (Earnings Management),"Kâr yönetimi, şirket yöneticilerinin, genel kabul görmüş muhasebe ilkelerinin (GAAP/IFRS) sunduğu esneklik ve takdir yetkisini kullanarak, raporlanan finansal sonuçları kasıtlı olarak etkileme ve genellikle belirli bir kâr hedefine ulaşma veya kazançlardaki dalgalanmayı yumuşatma çabasıdır. Bu uygulama, muhasebe politikası seçimleri veya tahakkukların zamanlaması gibi yollarla yapılır ve meşru muhasebe uygulamaları ile aldatıcı finansal raporlama arasındaki gri alanda yer alır."
+Vergi Avantajı,"Vergi avantajı, hükümetlerin belirli ekonomik veya sosyal hedefleri teşvik etmek amacıyla bireylere veya kurumlara sunduğu, vergi yükümlülüğünü azaltan yasal teşviklerdir. Vergi indirimleri, istisnalar, muafiyetler veya düşük vergi oranları şeklinde olabilen bu avantajlar, Ar-Ge harcamaları, emeklilik tasarrufları (BES gibi) veya belirli bölgelere yapılan yatırımlar gibi faaliyetleri özendirerek bu alanlara kaynak akışını artırmayı hedefler."
+Vergi İadesi,"Vergi iadesi, bir vergi mükellefinin mali yıl içerisinde ödediği vergilerin (genellikle ücretlerden kesilen gelir vergisi veya geçici vergiler), yıl sonunda hesaplanan nihai vergi borcundan fazla olması durumunda, aradaki farkın vergi idaresi tarafından mükellefe geri ödenmesi işlemidir. Bu durum, mükellefin fazladan vergi ödediğini gösterir ve bir gelir unsuru değil, fazla ödenmiş bir meblağın geri alınmasıdır."
+Muhasebe Standartları (TFRS/IFRS),"Muhasebe standartları, finansal tabloların hazırlanması ve sunulmasında tutarlılığı, karşılaştırılabilirliği ve şeffaflığı sağlamak amacıyla yetkili kurumlar (uluslararası düzeyde IASB, Türkiye'de KGK) tarafından belirlenen kural ve ilkeler bütünüdür. Uluslararası Finansal Raporlama Standartları (IFRS) ve Türkiye Finansal Raporlama Standartları (TFRS), şirketlerin finansal olayları nasıl ölçmesi, kaydetmesi ve sunması gerektiğini ayrıntılı olarak düzenleyerek yatırımcıların ve diğer paydaşların bilinçli kararlar almasına olanak tanır."
+Muhasebe İlkeleri (GAAP),"Genel Kabul Görmüş Muhasebe İlkeleri (GAAP), finansal muhasebe ve raporlamanın temelini oluşturan geniş kapsamlı kavramsal çerçeve ve kurallar bütünüdür. Bu ilkeler; işletmenin sürekliliği, tutarlılık, tam açıklama ve ihtiyatlılık gibi temel varsayımları içererek muhasebe uygulamalarına teorik bir zemin sağlar. Spesifik konuları düzenleyen standartların aksine, GAAP muhasebe mantığının arkasındaki temel felsefeyi ve hedefleri ortaya koyar."İşletme Birimi (Business Unit),Şirket içinde ayrı yönetilen faaliyet bölümü.
+Müşteri Yaşam Boyu Değeri (CLV),"Müşteri Yaşam Boyu Değeri (Customer Lifetime Value - CLV), bir müşterinin bir şirketle ilişkisi devam ettiği sürece yaratması beklenen toplam net kârın bugünkü değeridir. Bu ileriye dönük metrik, geçmiş işlem verilerini, müşteri sadakatini ve satın alma sıklığını analiz ederek hesaplanır ve şirketlerin pazarlama bütçelerini optimize etmelerine, en değerli müşteri segmentlerine odaklanmalarına ve müşteri tutma stratejileri geliştirmelerine olanak tanır."
+Müşteri Edinme Maliyeti (CAC),"Müşteri Edinme Maliyeti (Customer Acquisition Cost - CAC), bir şirketin yeni bir müşteri kazanmak için yaptığı toplam pazarlama ve satış harcamalarının, o dönemde kazanılan yeni müşteri sayısına bölünmesiyle elde edilen bir performans metriğidir. CLV ile birlikte analiz edildiğinde, bir işletmenin pazarlama stratejisinin sürdürülebilirliğini ve kârlılığını değerlendirmek için kritik bir gösterge sunar; ideal olarak bir müşterinin yaşam boyu değerinin, onu edinme maliyetinden önemli ölçüde yüksek olması beklenir."
+Sermaye Verimliliği,"Sermaye verimliliği, bir şirketin yatırdığı sermayeyi (özkaynak ve borç toplamı) ne kadar etkin bir şekilde kullanarak gelir veya kâr ürettiğini ölçen bir performans göstergesidir. Genellikle Yatırımın Geri Dönüşü (ROI) veya Kullanılan Sermayenin Getirisi (ROCE) gibi oranlarla ölçülen bu kavram, operasyonel verimliliği ve yönetimin sermaye tahsisi konusundaki başarısını yansıtır. Yüksek sermaye verimliliği, daha az sermaye ile daha fazla değer yaratıldığı anlamına gelir."
+Temerrüt Oranı,"Temerrüt oranı (Default Rate), bir kredi portföyünde, belirli bir dönem içinde anapara ve/veya faiz ödemelerini sözleşme koşullarına göre zamanında yerine getirmeyen (temerrüde düşen) borçluların sayısının veya kredi tutarının, toplam kredi portföyüne oranını gösterir. Özellikle bankalar ve finansal kuruluşlar için kredi riskinin temel bir göstergesi olan bu oran, kredi verme standartlarının sıkılığını ve portföyün genel sağlık durumunu değerlendirmek için yakından izlenir."
+Tahsilat Oranı,"Tahsilat oranı, bir işletmenin belirli bir dönemdeki ticari alacaklarının ne kadarını başarılı bir şekilde nakde çevirdiğini gösteren bir verimlilik rasyosudur. Genellikle o dönemde yapılan tahsilatların, dönemin toplam vadeli satışlarına veya dönem başı alacaklarına bölünmesiyle hesaplanır. Bu oran, şirketin alacak yönetimi politikasının etkinliğini, müşteri ödeme performansını ve nakit akış döngüsünün sağlığını ölçmede önemli bir araçtır."
+Kredi Sözleşmesi,"Kredi sözleşmesi, borç veren (kredi kuruluşu) ile borç alan (müşteri) arasında kurulan ve kredi kullanımının şartlarını, tarafların hak ve yükümlülüklerini düzenleyen hukuki bir belgedir. Bu sözleşme; kredi tutarı, faiz oranı, vade, geri ödeme planı, teminatlar, gecikme faizi ve erken kapama koşulları gibi tüm temel unsurları ayrıntılı olarak içerir ve taraflar için yasal bağlayıcılık taşır."
+Likidite Rezervi,"Likidite rezervi, bir finansal kuruluşun veya şirketin, beklenmedik nakit çıkışlarını, piyasa fonlama kaynaklarına erişimin zorlaştığı stres dönemlerinde dahi karşılayabilmek amacıyla elinde tuttuğu yüksek kaliteli ve kolayca nakde çevrilebilir varlıklar portföyüdür. Genellikle nakit, merkez bankası rezervleri ve kısa vadeli devlet tahvilleri gibi düşük riskli enstrümanlardan oluşan bu rezerv, kurumun finansal istikrarı ve ödeme gücünü sürdürmesi için bir tampon görevi görür."
+Emtia Piyasası,"Emtia piyasası, standartlaştırılmış nitelikteki ham veya temel ürünlerin (emtia) alınıp satıldığı organize (borsalar) veya tezgâh üstü (OTC) piyasalardır. Bu piyasalar; tarım ürünleri (buğday, kahve), enerji ürünleri (petrol, doğal gaz), değerli metaller (altın, gümüş) ve sanayi metalleri (bakır, alüminyum) gibi geniş bir ürün yelpazesini kapsar. Fiyatların küresel arz ve talep dinamiklerine göre belirlendiği bu piyasalar, üreticiler için riskten korunma ve yatırımcılar için portföy çeşitlendirmesi imkânı sunar."
+Futures Contract (Vadeli İşlem Sözleşmesi),"Vadeli işlem sözleşmesi (Futures Contract), taraflara standartlaştırılmış miktar ve kalitedeki bir dayanak varlığı (emtia, döviz, endeks vb.), gelecekte belirli bir tarihte ve bugünden anlaşılan bir fiyattan alma veya satma yükümlülüğü getiren, organize borsalarda işlem gören yasal bir anlaşmadır. Forward sözleşmelerden farklı olarak standart olmaları ve bir takas kurumu tarafından garanti edilmeleri, karşı taraf riskini ortadan kaldırır ve yüksek likidite sağlar."
+Kısa Vadeli Yatırım,"Kısa vadeli yatırım, genellikle bir yıl veya daha kısa bir süre içinde nakde dönüştürülmesi hedeflenen finansal yatırımları ifade eder. Bu tür yatırımların temel amacı, anaparayı korumak ve mütevazı bir getiri elde etmek olduğundan, genellikle para piyasası fonları, hazine bonoları, mevduat sertifikaları gibi yüksek likiditeye sahip ve düşük riskli menkul kıymetler tercih edilir. Spekülatif amaçlı kısa vadeli alım-satım işlemleri de bu kategoriye girse de, genellikle daha yüksek risk içerirler."
+Uzun Vadeli Yatırım,"Uzun vadeli yatırım, genellikle bir yılı aşan bir zaman ufkuna sahip olan ve temel amacı anlık likidite ihtiyacını karşılamak veya kısa dönemli fiyat dalgalanmalarından kâr elde etmek yerine, sermaye değerlenmesi, temettü veya faiz geliri gibi stratejik hedeflere ulaşmak olan yatırım türüdür. Bu yaklaşım, hisse senetleri, uzun vadeli tahviller ve gayrimenkul gibi varlıkları içerir ve genellikle piyasa döngülerinin üzerindeki büyümeye odaklanarak daha yüksek bir risk toleransı gerektirir."
+Borçlanma Maliyeti,"Borçlanma maliyeti, bir işletmenin veya bireyin kullandığı borç kaynakları için katlandığı toplam gideri ifade eden ve genellikle efektif bir yıllık faiz oranı olarak ifade edilen bir kavramdır. Bu maliyet, sadece nominal faiz ödemelerini değil, aynı zamanda krediyle ilgili komisyonlar, ücretler ve diğer masrafları da içerir ve faiz giderlerinin vergiden düşülebilir olması nedeniyle, genellikle vergi sonrası net maliyet olarak hesaplanarak şirketin sermaye yapısı kararlarında kullanılır."
+Yatırım Portföyü,"Yatırım portföyü, bir bireyin veya kurumun, belirli finansal hedeflere ulaşmak (sermaye artışı, düzenli gelir vb.) ve riskini yönetmek amacıyla sahip olduğu hisse senedi, tahvil, yatırım fonu, emtia ve gayrimenkul gibi çeşitli varlıkların bütünüdür. Modern portföy teorisine göre, farklı varlık sınıflarını bir araya getirerek oluşturulan çeşitlendirilmiş bir portföy, tek bir varlığa yatırım yapmaya kıyasla belirli bir getiri seviyesi için toplam riski (volatiliteyi) düşürmeyi amaçlar."
+Geriye Dönük Düzeltme (Restatement),"Geriye dönük düzeltme, bir şirketin daha önce yayınlamış olduğu finansal tablolarında önemli bir hata veya muhasebe standartlarına (TFRS/IFRS) aykırılık tespit edilmesi üzerine, bu tabloları düzelterek yeniden yayınlaması işlemidir. Bu düzeltme, yatırımcıların geçmiş dönem performansını doğru bir şekilde değerlendirebilmesi için zorunludur ve genellikle şirketin itibarı ile piyasa değeri üzerinde olumsuz bir etki yaratarak, iç kontrol sistemlerindeki zafiyetlere işaret edebilir."

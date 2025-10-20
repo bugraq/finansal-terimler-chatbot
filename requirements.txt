@@ -7,8 +7,8 @@ python-dotenv==1.0.1
 # Google Gemini API
 google-generativeai==0.7.2
 
-# Vector search (en güncel sürüm)
-faiss-cpu==1.12.0
+# Vector search (1.12.0 yerine güncel sürüm denendi)
+faiss-cpu==1.8.0.post1
 
 # LangChain core + Gemini entegrasyonu
 langchain==0.2.14
