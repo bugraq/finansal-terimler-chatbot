@@ -5,9 +5,10 @@ flask==3.0.3
 python-dotenv==1.0.1
 
 # Google Gemini API
-google-generativeai==0.7.2
+# langchain-google-genai ile uyumlu sürümle değiştirildi
+google-generativeai==0.5.4
 
-# Vector search (1.12.0 yerine güncel sürüm denendi)
+# Vector search
 faiss-cpu==1.8.0.post1
 
 # LangChain core + Gemini entegrasyonu
