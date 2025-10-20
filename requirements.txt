@@ -12,7 +12,7 @@ faiss-cpu==1.8.0.post1
 
 # LangChain core + Gemini entegrasyonu
 langchain==0.2.14
-langchain-core==0.2.23
+langchain-core==0.2.32
 langchain-google-genai==1.0.3
 
 # JSON, requests, utilities
