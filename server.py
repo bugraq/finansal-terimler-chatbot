@@ -207,7 +207,13 @@ def chat_api():
             keys = list(NORM_TERM_MAP.keys())
             close = difflib.get_close_matches(candn, keys, n=1, cutoff=0.8)
             if close:
-                return NORM_TERM_MAP.get(close[0])
+                # Return suggestion format instead of direct definition
+                suggested_term = close[0]
+                # Find the original term for the suggestion
+                for orig_term, desc in TERM_MAP.items():
+                    if normalize_tr(orig_term) == suggested_term or normalize_tr(orig_term.split('(')[0].strip()) == suggested_term:
+                        return f"'{cand}' terimini bulamadım. Şunu mu demek istediniz: **{orig_term}**?\n\n{desc}"
+                return f"'{cand}' terimini bulamadım. Şunu mu demek istediniz: **{suggested_term}**?"
             # fallback: try matching against base forms of known terms
             for orig_term, d in TERM_MAP.items():
                 base = orig_term.split('(')[0].strip()
@@ -279,7 +285,8 @@ def chat_api():
                 *[token_similarity(cand, al) for al in aliases]
             ]
             if d and max(sims or [0.0]) >= 0.4:
-                return d
+                # Return suggestion format instead of direct definition
+                return f"'{cand}' terimini bulamadım. Şunu mu demek istediniz: **{doc_term}**?\n\n{d}"
         return None
 
     nearest_def = semantic_nearest_definition(question)
