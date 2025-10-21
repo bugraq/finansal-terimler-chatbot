@@ -16,6 +16,11 @@ Uygulama:
 - Eşleşen içerikleri **Gemini modeli** ile birleştirip açıklayıcı ve sade bir cevap üretir.
 
 ---
+## 🌐 Deploy 
+
+[](https://finansal-terimler-chatbot.onrender.com)
+
+---
 
 ## 📚 Veri Seti
 
@@ -91,14 +96,6 @@ graph TD
 
 ---
 
-## 💻 Web Arayüzü Özellikleri
-
-- Sohbet balonları ve kullanıcı/AI avatar desteği  
-- Responsive (mobil uyumlu) tasarım  
-- Temiz ve sade kullanıcı deneyimi  
-- Yakında: tema seçimi (ışık/karanlık), dil seçici
-
----
 
 ## 📎 Gereksinimler
 
@@ -108,19 +105,6 @@ graph TD
 - google-generativeai  
 - python-dotenv  
 
----
-
-## 🧪 Elde Edilen Sonuçlar
-
-Chatbot, finansal terimlerde yüksek doğrulukla anlamlı tanımlar üretmektedir:  
-- **Anlam benzerliği:** %90+  
-- **Yanıt süresi:** < 2 saniye (lokal ortamda)  
-
----
-
-## 🌐 Deploy 
-
-[](https://finansal-terimler-chatbot.onrender.com)
 ---
 
 ## 🔗 Kaynaklar
