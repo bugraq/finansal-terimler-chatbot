@@ -31,7 +31,7 @@ Veri seti finansal sözlüklerden, yatırım sitelerinden ve açık kaynaklı i�
 **Veri Özeti:**
 - Format: `CSV`  
 - Alanlar: `term` (terim), `definition` (tanım - TR)  
-- Kayıt sayısı: ~300  
+- Kayıt sayısı: ~400  
 - Sorgulama: FAISS vektör araması ile semantik benzerlik hesaplanır.
 
 ---
@@ -118,11 +118,9 @@ Chatbot, finansal terimlerde yüksek doğrulukla anlamlı tanımlar üretmektedi
 
 ---
 
-## 🌐 Deploy Durumu
+## 🌐 Deploy 
 
-📍 Şu anda yalnızca yerel ortamda çalışmaktadır.  
-Gelecekte bulut tabanlı deploy (Render, Vercel veya Google Cloud Run) planlanmaktadır.
-
+[](https://finansal-terimler-chatbot.onrender.com)
 ---
 
 ## 🔗 Kaynaklar
@@ -142,4 +140,4 @@ Gelecekte bulut tabanlı deploy (Render, Vercel veya Google Cloud Run) planlanma
 
 **Buğra Kıvrak**  
 📍 Fırat Üniversitesi — Yapay Zekâ ve Veri Mühendisliği  
-📫 [LinkedIn](https://linkedin.com/in/bugrakivrak16) | [GitHub](https://github.com/bugraq)
+📫 [LinkedIn](https://linkedin.com/in/bugrakivrak16) | [GitHub](https://github.com/bugraq) | [Kaggle](https://www.kaggle.com/burakvrak)
