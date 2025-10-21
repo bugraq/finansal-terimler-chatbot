@@ -1,29 +1,29 @@
 # Web Server for deployment
 gunicorn==22.0.0
 
-# Web framework (Lokal listenizden güncellendi)
+# Web framework
 flask==3.1.2
 
-# Environment variables (Lokal listenizden güncellendi)
+# Environment variables
 python-dotenv==1.1.1
 
 # --- Uyumlu LangChain ve Google AI Paketlen ---
-# (Tümü lokal listenizdeki çalışan sürümlerle güncellendi)
 google-generativeai==0.8.5
 langchain==0.3.27
 langchain-core==0.3.79
 langchain-google-genai==2.0.10
 langchain-community==0.3.31
 
-# Vector search (!! Render için özel sürüm !!)
+# Vector search (Render/Linux uyumlu sürüm)
 faiss-cpu==1.8.0.post1
 
-# JSON, requests, utilities (Lokal listenizden güncellendi)
+# JSON, requests, utilities
 requests==2.32.5
 
-# (Opsiyonel ama önerilen) (Lokal listenizden güncellendi)
+# (Opsiyonel ama önerilen)
 tqdm==4.67.1
-numpy==2.2.6
+# faiss-cpu==1.8.0.post1 ile uyumlu olması için 1.26.4'e düşürüldü
+numpy==1.26.4
 pandas==2.3.3
 
 # Eksik modül
