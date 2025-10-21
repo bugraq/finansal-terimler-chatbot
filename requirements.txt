@@ -9,10 +9,12 @@ python-dotenv==1.0.1
 
 # --- Uyumlu LangChain ve Google AI Paketlen ---
 google-generativeai==0.8.3
-langchain==0.3.11
+# Sürüm, core ve community ile uyum için 0.3.37'ye yükseltildi
+langchain==0.3.37
 langchain-core==0.3.37
 langchain-google-genai==2.0.10
-langchain-community==0.2.10
+# Sürüm, core ve langchain ile uyum için 0.3.37'ye yükseltildi
+langchain-community==0.3.37
 
 # Vector search (Sizin projenizin kullandığı)
 faiss-cpu==1.8.0.post1
