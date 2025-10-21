@@ -218,7 +218,7 @@ def chat_api():
     # simple Turkish finance synonyms to help retrieval/LLM when term missing in CSV
     SYNONYMS = {
         'halka arz': ['ipo', 'initial public offering', 'ilk halka arz'],
-        'hisse senedi': ['equity', 'stock', 'share'],
+        'hisse senedi': ['equity', 'stock', 'share','hisse'],
         'tahvil': ['bond', 'debt security'],
         'temettü': ['dividend'],
         'kaldıraç': ['leverage'],
