@@ -24,8 +24,22 @@ Uygulama aşağıdaki bağlantı üzerinden erişilebilir:
 
 🔗 **Canlı Proje:** [https://finansal-terimler-chatbot.onrender.com](https://finansal-terimler-chatbot.onrender.com)
 
-Render, Python ortamını otomatik olarak yapılandırır ve `server.py` dosyasını çalıştırarak uygulamayı başlatır.  
-Proje güncellendiğinde Render otomatik olarak yeniden deploy işlemini gerçekleştirir.
+---
+
+## Ekran Görüntüleri
+
+<table>
+  <tr>
+    <td align="center"><strong>Hoşgeldin Mesajı</strong></td>
+    <td align="center"><strong>Terim Tanımları</strong></td>
+    <td align="center"><strong>Hata Durumu & Benzer Terim</strong></td>
+  </tr>
+  <tr>
+    <td><img src="static/images/ss_welcome.png" alt="Hoşgeldin mesajı" width="300"/></td>
+    <td><img src="static/images/ss_definitions.png" alt="Arbitraj ve Temettü tanımları" width="300"/></td>
+    <td><img src="static/images/ss_fallback.png" alt="Hata durumu ve F/K oranı önerisi" width="300"/></td>
+  </tr>
+</table>
 
 ---
 
