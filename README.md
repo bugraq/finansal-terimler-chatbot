@@ -113,7 +113,22 @@ graph TD
     C --> G[📘 TCMB Terim Verisi + Diğer Kaynaklar]
     G --> C
 ```
+---
 
+## 🔗 Kaynaklar
+
+- [Gemini API Docs](https://ai.google.dev/gemini-api/docs)  
+- [Gemini Cookbook](https://ai.google.dev/gemini-api/cookbook)  
+- [Chatbot Template Repo](https://github.com/enesmanan/chatbot-deploy)  
+- [Flask Documentation](https://flask.palletsprojects.com/)  
+- [python-dotenv Documentation](https://pypi.org/project/python-dotenv/)  
+- [Requests Library Documentation](https://requests.readthedocs.io/)  
+- [Investopedia – Financial Terms Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738)  
+- [GitHub Secret Scanning Guide](https://docs.github.com/en/code-security/secret-scanning)  
+- [T.C. Merkez Bankası Terimler Sözlüğü](https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banka+Hakkinda/Egitim-Akademik/Terimler+Sozlugu)  
+
+
+---
 ---
 
 ## ✨ Geliştirici
