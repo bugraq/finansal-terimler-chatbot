@@ -335,7 +335,7 @@ def chat_api():
             # As a last resort, provide a graceful fallback response
             fallback_msg = (
                 "Bu konu kapsamım dışında kalıyor olabilir ya da veri setimde yer almıyor. "
-                "Finans terimleriyle ilgili sorular sorabilirsiniz (örn: 'Likidite nedir?', 'Bileşik faiz nasıl hesaplanır?')."
+                "Finans terimleriyle ilgili sorular sorabilirsiniz (örn: 'Likidite nedir?', 'Kredi nedir?')."
             )
             return jsonify({'response': fallback_msg, 'conversations': []})
 
@@ -344,7 +344,7 @@ def chat_api():
     if not answer or not str(answer).strip():
         answer = (
             "Bu konuda kesin bir bilgi bulamadım. Veri setimde bulunan finans terimlerine odaklanabilirim. "
-            "Örnek: 'Likidite nedir?', 'F/K oranı neyi ifade eder?', 'Repo nedir?'."
+            "Örnek: 'Likidite nedir?', 'Cari kur nedir?', 'Repo nedir?'."
         )
     # Return shape compatible with frontend template JS (expects 'response' and optionally 'conversations')
     return jsonify({'response': answer, 'conversations': []})
