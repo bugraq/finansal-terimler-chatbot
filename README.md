@@ -16,40 +16,53 @@ Uygulama:
 - Eşleşen içerikleri **Gemini modeli** ile birleştirip açıklayıcı ve sade bir cevap üretir.
 
 ---
-## 🌐 Deploy 
 
-[](https://finansal-terimler-chatbot.onrender.com)
+## 🚀 Deploy (Render)
+
+Bu proje, **Render** platformu üzerinden canlıya alınmıştır.  
+Uygulama aşağıdaki bağlantı üzerinden erişilebilir:
+
+🔗 **Canlı Proje:** [https://finansal-terimler-chatbot.onrender.com](https://finansal-terimler-chatbot.onrender.com)
+
+Render, Python ortamını otomatik olarak yapılandırır ve `server.py` dosyasını çalıştırarak uygulamayı başlatır.  
+Proje güncellendiğinde Render otomatik olarak yeniden deploy işlemini gerçekleştirir.
 
 ---
+
 
 ## 📚 Veri Seti
 
-Proje, **Türkçe finansal terimlerden** oluşan özel bir veri setiyle çalışır.  
-Veri seti finansal sözlüklerden, yatırım sitelerinden ve açık kaynaklı içeriklerden derlenmiştir.
+Chatbot’un bilgi tabanı, **Türkçe finansal terimlerden** oluşan özel bir veri setine dayanmaktadır.  
+Bu veri seti, hem **TCMB’nin (Türkiye Cumhuriyet Merkez Bankası) Terimler Sözlüğü** sayfasından otomatik olarak çekilen tanımları,  
+hem de diğer finansal kaynaklardan (Investopedia, BDDK, çeşitli akademik içerikler vb.) derlenen kavramları içermektedir.
 
-**Hazırlık Adımları:**
-1. **Toplama:** TCMB, BDDK, Investopedia, Wikipedia gibi kaynaklardan terim ve tanımlar manuel olarak derlendi.  
-2. **Temizlik:** Yinelenen veya benzer anlamlı terimler elendi.  
-3. **Formatlama:** CSV dosyasına dönüştürüldü (`term`, `definition` sütunlarıyla).  
-4. **Embedding:** FAISS için metinler, Google Generative Embeddings modeliyle vektörleştirildi.
+Veri toplama süreci tamamen otomatik hale getirilmiştir.  
+**Selenium** ve **BeautifulSoup** kullanılarak TCMB’nin resmî web sitesindeki tüm terimler çekilir,  
+temizlenir ve aşağıdaki formatta CSV dosyasına kaydedilir:
+
 
 **Veri Özeti:**
-- Format: `CSV`  
-- Alanlar: `term` (terim), `definition` (tanım - TR)  
-- Kayıt sayısı: ~400  
-- Sorgulama: FAISS vektör araması ile semantik benzerlik hesaplanır.
+- Kaynaklar: TCMB, BDDK, Investopedia, sentetik veriler, çeşitli yatırım firmaları  
+- Format: CSV  
+- Sütunlar: `terim` (term), `tanım` (definition)  
+- Kayıt sayısı: ~800+ terim  
+- Güncelleme: TCMB terimleri script ile otomatik yenilenebilir  
+- Kullanım: FAISS vektör araması ile semantik benzerlik hesaplanır
 
 ---
 
-## 🧠 Kullanılan Teknolojiler ve Yöntemler
+## 🧠 Kullanılan Teknolojiler
 
-- **Gemini API (Google Generative)** → Yanıt oluşturma  
-- **RAG (Retrieval-Augmented Generation)** → Bilgi tabanlı üretim  
-- **FAISS (Facebook AI Similarity Search)** → Vektör arama  
-- **Flask** → Backend framework  
-- **HTML / CSS / JS** → Web arayüzü  
-- **dotenv** → API anahtarı yönetimi  
-- **LangChain benzeri pipeline** → RAG akışı mantığıyla  
+| Kategori | Teknoloji / Araç |
+|-----------|------------------|
+| Yapay Zekâ | Google Gemini API |
+| Arama Motoru | FAISS Vector Database |
+| Framework | Flask |
+| Arayüz | HTML / CSS / JS |
+| Veri Toplama | Selenium, BeautifulSoup |
+| Çevre Değişkenleri | dotenv |
+| Embedding | Google Generative Embeddings |
+| Mimarî | Retrieval-Augmented Generation (RAG) |
 
 ---
 
@@ -72,7 +85,12 @@ Proje kök dizinine `.env` dosyası ekleyip içine şu satırı yaz:
 GOOGLE_API_KEY=your_key_here
 ```
 
-### 4️⃣ Uygulamayı başlat
+### 4️⃣ TCMB verilerini çek (isteğe bağlı)
+```bash
+python terimler.py
+```
+
+### 5️⃣ Uygulamayı başlat
 ```bash
 python server.py
 ```
@@ -92,31 +110,9 @@ graph TD
     D --> E[🧠 Gemini Generative API]
     E --> F[💬 Yanıt Oluşturma]
     F --> A
+    C --> G[📘 TCMB Terim Verisi + Diğer Kaynaklar]
+    G --> C
 ```
-
----
-
-
-## 📎 Gereksinimler
-
-- Python 3.11+  
-- Flask  
-- FAISS  
-- google-generativeai  
-- python-dotenv  
-
----
-
-## 🔗 Kaynaklar
-
-- [Gemini API Docs](https://ai.google.dev/gemini-api/docs)  
-- [Gemini Cookbook](https://ai.google.dev/gemini-api/cookbook)  
-- [Chatbot Template Repo](https://github.com/enesmanan/chatbot-deploy)  
-- [Flask Documentation](https://flask.palletsprojects.com/)  
-- [python-dotenv Documentation](https://pypi.org/project/python-dotenv/)  
-- [Requests Library Documentation](https://requests.readthedocs.io/)  
-- [Investopedia – Financial Terms Dictionary](https://www.investopedia.com/financial-term-dictionary-4769738)  
-- [GitHub Secret Scanning Guide](https://docs.github.com/en/code-security/secret-scanning)  
 
 ---
 
